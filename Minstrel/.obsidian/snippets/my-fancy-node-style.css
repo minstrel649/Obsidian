@@ -1,0 +1,35 @@
+/* @advanced-canvas-node-style
+key: validation-state
+label: Validation State
+options:
+  -
+    label: Stateless
+    value: null
+    icon: circle-help
+
+  -
+    label: Approved
+    value: approved
+    icon: circle-check
+  -
+    label: Wait
+    value: Waiting
+    icon: hourglass
+
+*/
+.canvas-node[data-validation-state] .canvas-node-content::after {
+  content: "";
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-size: 1em;
+}
+
+.canvas-node[data-validation-state="approved"] .canvas-node-content::after {
+  content: "✔️";
+}
+.canvas-node[data-validation-state="Waiting"] .canvas-node-content::after {
+  content: "⏳";
+  font: 2em sans-serif;
+}
+

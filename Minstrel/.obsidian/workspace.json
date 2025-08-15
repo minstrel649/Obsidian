@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "097a42d704cf6f17",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ca8fbeb643e81c5",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "7f19a6dfdbc9f2fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/抽象代数/notebook/群的基本概念.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "群的基本概念"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2160c2e6208bc796",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "59e3ae623bbdf720",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/抽象代数/notebook/群的基本概念.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "群的基本概念"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7f46fb7258d35fed",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba9abb6a1b5a032f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad4cf4aa4e681f60",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "ab973f28e2b67c4b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "da632df60cdb50c3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 604.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "18452badd9d034f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "76bc15bd14825597",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3485451b7d6583d1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Physics/量子力学/syc/Week 1.pdf",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Week 1 的反向链接列表"
+            }
+          },
+          {
+            "id": "9f349684c1c35988",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Physics/量子力学/syc/The Principles of Quantum Mechanics (Paul A. M. Dirac) (Z-Library).pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "The Principles of Quantum Mechanics (Paul A. M. Dirac) (Z-Library) 的出链列表"
+            }
+          },
+          {
+            "id": "733f24490dc8d6c3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "9191614826232046",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "心灵笔录.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 心灵笔录"
+            }
+          },
+          {
+            "id": "bc1d8b3f31d52943",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
+    }
+  },
+  "active": "7f19a6dfdbc9f2fe",
+  "lastOpenFiles": [
+    "Math/抽象代数/抽象代数.md",
+    "Math/抽象代数/Algebra ([美]阿延（Artin,M.)著, (美)Michael Artin著, Tin Ar) (Z-Library).pdf",
+    "Physics/Statistic physics/syc/Lectures - Part I.pdf",
+    "Physics/Statistic physics/syc/Statistical Physics Berkeley Physics Course, Vol. 5 (F. Reif) (Z-Library).pdf",
+    "Physics/量子力学/syc/Assignment/1/Assignment_1.pdf",
+    "Physics/量子力学/syc/Week 1.pdf",
+    "Physics/量子力学/syc/Introduction to Quantum Mechanics (David J. Griffiths, Darrell F. Schroeter) (Z-Library).pdf",
+    "Physics/量子力学/syc/~~$Week 1.pdf",
+    "Physics/量子力学/syc/Assignment/1/Assignment_1.pdf.crdownload",
+    "Physics/量子力学/syc/Assignment/1",
+    "Physics/量子力学/syc/Assignment/新建文件夹",
+    "Physics/量子力学/syc/未命名.canvas",
+    "Physics/量子力学/量子力学.md",
+    "Math/抽象代数/notebook/群的基本概念.md",
+    "2025-08-13.md",
+    "Math/实变函数.md",
+    "Physics/电动力学/电动力学.md",
+    "Main（record+navigation）.md",
+    "2025-08-12.md",
+    "“百度”.md",
+    "Physics/Statistic physics/Statistic physics.md",
+    "未命名.md",
+    "Daily Writing.md",
+    "画布放映模式演示.canvas",
+    "幻灯片功能演示.md",
+    "Welcome.md",
+    "Physics/Statistic physics.md"
+  ]
+}

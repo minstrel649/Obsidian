@@ -1,0 +1,6 @@
+{
+  "theme": "system",
+  "enabledCssSnippets": [
+    "my-fancy-node-style"
+  ]
+}
