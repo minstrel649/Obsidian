@@ -4,11 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "d34a45fe1eeba51b",
+        "id": "60400af7e31272b1",
         "type": "tabs",
         "children": [
           {
-            "id": "21419e92f36355e5",
+            "id": "c76feeac9af15fd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/抽象代数/notebook/群的基本概念.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "群的基本概念"
+            }
+          }
+        ]
+      },
+      {
+        "id": "75958458c1dbde4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96ec6008d5372d1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 604.5
+    "width": 604.5,
+    "collapsed": true
   },
   "right": {
     "id": "18452badd9d034f1",
@@ -194,8 +215,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bc1d8b3f31d52943",
+  "active": "c76feeac9af15fd9",
   "lastOpenFiles": [
+    "Math/抽象代数/notebook/群的基本概念.md",
     "Physics/量子力学/syc/Assignment/1/Assignment_1.pdf",
     "Physics/量子力学/syc/Week 1.pdf",
     "Physics/量子力学/syc/Assignment/1/answer.pdf",
@@ -207,7 +229,6 @@
     "Physics/量子力学/syc/Assignment/1/answer.synctex.gz",
     "Physics/量子力学/syc/Assignment/1/answer.tex",
     "Physics/Statistic physics/syc/Lectures - Part I.pdf",
-    "Math/抽象代数/notebook/群的基本概念.md",
     "Math/抽象代数/抽象代数.md",
     "Physics/量子力学/syc/未命名.canvas",
     "Physics/量子力学/量子力学.md",
