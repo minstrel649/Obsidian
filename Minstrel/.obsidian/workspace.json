@@ -25,14 +25,12 @@
             "id": "015492c8e4f09914",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Physics/电动力学/电动力学.md",
-                "mode": "source",
-                "source": false
+                "file": "Physics/电动力学/syc/01 Fields in Matter.pdf"
               },
-              "icon": "lucide-file",
-              "title": "电动力学"
+              "icon": "lucide-file-text",
+              "title": "01 Fields in Matter"
             }
           }
         ],
