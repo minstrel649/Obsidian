@@ -16,7 +16,7 @@
     \textbf{Problem 1 Solution}
 \end{center}
 
-\textbf{(1)} From the eigenvalue equation $\hat{H}\psi(x) = h_n \psi(x)$ and the Hamiltonian operator $\hat{H} = -\frac{\hbar^2}{2m} \nabla^2$, we have:
+\textbf{(1)} In the position representation, from the eigenvalue equation $\hat{H}\psi(x) = h_n \psi(x)$ and the Hamiltonian operator $\hat{H} = -\frac{\hbar^2}{2m} \nabla^2$, we have:
 \begin{align*}
     -\frac{\hbar^2}{2m} \nabla^2 \psi(x) = h_n \psi(x)
 \end{align*}
@@ -47,6 +47,10 @@ So,
 \textbf{(3)} 
 When $L \to \infty$, $p_n$ becomes continuous and $\psi_n(x)$ becomes a plane wave.
 \[
-\braket{\psi_{p_1} | \psi_{p_2}} = \int_{-\infty}^{+\infty} e^{-\frac{i p_1 x}{\hbar}} e^{\frac{i p_2 x}{\hbar}} dx = \lim_{l \to +\infty} \frac{L \sin\left[\frac{(p_2 - p_1) l}{\hbar}\right]}{\pi (p_2 - p_1)} = L \delta(p_2 - p_1)
+\braket{\psi_{p_1} | \psi_{p_2}} = \int_{-\infty}^{+\infty} e^{-\frac{i p_1 x}{\hbar}} e^{\frac{i p_2 x}{\hbar}} dx = \lim_{l \to +\infty} \frac{2\hbar \sin\left[\frac{(p_2 - p_1) l}{\hbar}\right]}{ (p_2 - p_1)} =  2\pi\delta(\frac{p_2 - p_1}{\hbar})=2\pi\hbar\delta(p_2-p_1)
 \]
+\vspace{1em}
+\textbf{(4)} 
+In the position representation, $\ket{\psi_{x_0,\epsilon}}=\int_{min}^{max} $ $$\braket{\delta | \delta}=\int_{-\infty}^{+\infty}(x\psi_{x_0,\epsilon}(x)-x_0 \psi_{x_0,\epsilon}(x))^{*}(x\psi_{x_0,\epsilon}(x)-x_0 \psi_{x_0,\epsilon}(x))dx$$
+
 \end{document}
