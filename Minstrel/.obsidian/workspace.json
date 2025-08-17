@@ -25,14 +25,14 @@
             "id": "015492c8e4f09914",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Physics/电动力学/电动力学.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Minstrel/.obsidian/workspace.json",
+                "bFile": "Minstrel/.obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "电动力学"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ],
@@ -211,6 +211,7 @@
   },
   "active": "015492c8e4f09914",
   "lastOpenFiles": [
+    "Physics/电动力学/电动力学.md",
     "Physics/量子力学/syc/Assignment/1/answer.synctex(busy)",
     "Physics/量子力学/syc/Assignment/1/answer.out",
     "Physics/量子力学/syc/Assignment/1/answer.aux",
@@ -225,12 +226,10 @@
     "Physics/量子力学/syc/Assignment/1/answer.log",
     "Physics/量子力学/syc/Assignment/1/answer.synctex.gz",
     "Physics/量子力学/syc/Assignment/1/answer.tex",
-    "Physics/Statistic physics/syc/Lectures - Part I.pdf",
     "Physics/量子力学/syc/未命名.canvas",
     "Physics/量子力学/量子力学.md",
     "2025-08-13.md",
     "Math/实变函数.md",
-    "Physics/电动力学/电动力学.md",
     "Main（record+navigation）.md",
     "2025-08-12.md",
     "“百度”.md",
