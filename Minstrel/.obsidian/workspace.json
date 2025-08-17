@@ -25,14 +25,14 @@
             "id": "015492c8e4f09914",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Minstrel/.obsidian/workspace.json",
-                "bFile": "Minstrel/.obsidian/workspace.json",
-                "aRef": ""
+                "file": "Physics/电动力学/电动力学.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "电动力学"
             }
           }
         ],
