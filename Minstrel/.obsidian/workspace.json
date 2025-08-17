@@ -11,12 +11,14 @@
             "id": "aacc9a641a83074a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Physics/电动力学/syc/1 Poynting Theorem.pdf"
+                "file": "Math/抽象代数/习题/群的基本概念习题.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "1 Poynting Theorem"
+              "icon": "lucide-file",
+              "title": "群的基本概念习题"
             }
           },
           {
@@ -29,6 +31,26 @@
               },
               "icon": "lucide-file-text",
               "title": "01 Fields in Matter"
+            }
+          }
+        ]
+      },
+      {
+        "id": "47b797342623aef9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "208f417b110d43ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/抽象代数/习题/群的基本概念习题.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "群的基本概念习题"
             }
           }
         ]
@@ -206,20 +228,21 @@
   },
   "active": "aacc9a641a83074a",
   "lastOpenFiles": [
-    "Math/抽象代数/notebook/环的基本概念.md",
     "Math/抽象代数/抽象代数.md",
-    "Physics/电动力学/syc/01 Fields in Matter.pdf",
+    "Math/抽象代数/习题/群的基本概念习题.md",
+    "Math/抽象代数/notebook/群的基本概念.md",
+    "Math/抽象代数/notebook/环的基本概念.md",
+    "Math/抽象代数/Algebra ([美]阿延（Artin,M.)著, (美)Michael Artin著, Tin Ar) (Z-Library).pdf",
+    "Math/抽象代数/习题",
     "Physics/电动力学/syc/1 Poynting Theorem.pdf",
+    "Physics/电动力学/syc/01 Fields in Matter.pdf",
     "Physics/电动力学/syc/1 Poynting Theorem.pdf.crdownload",
     "Physics/电动力学/电动力学.md",
     "Physics/量子力学/syc/Assignment/1/answer.synctex(busy)",
     "Physics/量子力学/syc/Assignment/1/answer.out",
     "Physics/量子力学/syc/Assignment/1/answer.aux",
-    "Math/抽象代数/Algebra ([美]阿延（Artin,M.)著, (美)Michael Artin著, Tin Ar) (Z-Library).pdf",
-    "Math/抽象代数/notebook/群的基本概念.md",
     "Physics/量子力学/syc/Assignment/1/Assignment_1.pdf",
     "Physics/量子力学/syc/Week 1.pdf",
-    "Physics/量子力学/syc/Assignment/1/answer.pdf",
     "Physics/量子力学/syc/Assignment/1/作业1.md",
     "Physics/量子力学/syc/未命名.canvas",
     "Physics/量子力学/量子力学.md",
