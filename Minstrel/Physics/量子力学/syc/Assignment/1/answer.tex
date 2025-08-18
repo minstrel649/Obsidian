@@ -91,6 +91,11 @@ The time evolution of the state is given by:
     &= e^{i \frac{\mu B}{\hbar} Y t} \ket{\uparrow}
 \end{align*}
 Using Taylor expansion, we can express this as:
-\[\ket{\psi(t)} = \ket{\uparrow} \left( 1 + i \frac{\mu B}{\hbar} Y t - \frac{1}{2} \left( \frac{\mu B}{\hbar} Y t \right)^2 + \cdots \right)\]
-
+\[\ket{\psi(t)} = \ket{\uparrow} \left( 1 + i \frac{\mu B}{\hbar} Y t - \frac{1}{2} \left( \frac{\mu B}{\hbar} Y t \right)^2 + \cdots \right)=\cos(\theta)\ket{\uparrow}{-}\sin(\theta)\ket{\downarrow}\]
+where $\theta = \frac{\mu B}{\hbar} t$. The probability of measuring $\ket{\uparrow}$ at time $t$ is $p_{\uparrow}(t) = \cos^2(\theta)$, and the probability of measuring $\ket{\downarrow}$ is $p_{\downarrow}(t) = \sin^2(\theta)$.
+\textbf{(2)} The expectation value of the spin operator $S_y$ is given by:
+\begin{align*}
+    \braket{S_y} &= \braket{\psi(t) | S_y | \psi(t)} \\
+    &= \cos^2(\theta) \braket{\uparrow | S_y | \uparrow} + \sin^2(\theta) \braket{\downarrow | S_y | \downarrow} + 2\cos(\theta)\sin(\theta) \braket{\uparrow | S_y | \downarrow}
+\end{align*}
 \end{document}
