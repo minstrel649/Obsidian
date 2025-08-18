@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Physics/电动力学/syc/Tutorials/Tut1 Fields in Matter.pdf"
+                "file": "Physics/电动力学/syc/01 Fields in Matter.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Tut1 Fields in Matter"
+              "title": "01 Fields in Matter"
             }
           }
         ]
@@ -194,8 +194,8 @@
   },
   "active": "e4d6c629519d3b0b",
   "lastOpenFiles": [
-    "Physics/电动力学/syc/01 Fields in Matter.pdf",
     "Physics/电动力学/syc/Tutorials/Tut1 Fields in Matter.pdf",
+    "Physics/电动力学/syc/01 Fields in Matter.pdf",
     "Math/抽象代数/习题/群的基本概念习题.md",
     "Physics/电动力学/syc/Tutorials/Tut5 Electrodynamics & Relativity.pdf",
     "Physics/电动力学/syc/Tutorials/Tut4 Radiation.pdf",
