@@ -61,17 +61,26 @@ and
 \int_{-\infty}^{+\infty}(x-x_0)^2\frac{1}{\sqrt{2\pi\epsilon^2}}e^{-\frac{(x-x_0)^2}{2\epsilon^2}}dx
 = \left. -\frac{\partial}{\partial a} \int_{-\infty}^{+\infty} \frac{1}{\sqrt{2\pi\epsilon^2}} e^{-a(x-x_0)^2} dx \right|_{a = \frac{1}{2\epsilon^2}}
 \]
-注意
+Note that
 \[
 \int_{-\infty}^{+\infty} e^{-a(x-x_0)^2} dx = \sqrt{\frac{\pi}{a}}
 \]
-因此
+Therefore,
 \[
 -\frac{\partial}{\partial a} \sqrt{\frac{\pi}{a}} = \frac{1}{2} \sqrt{\pi} a^{-3/2}
 \]
-代入 $a = \frac{1}{2\epsilon^2}$，得
+Substituting $a = \frac{1}{2\epsilon^2}$, we get
 \[
 \int_{-\infty}^{+\infty}(x-x_0)^2\frac{1}{\sqrt{2\pi\epsilon^2}}e^{-\frac{(x-x_0)^2}{2\epsilon^2}}dx = \epsilon^2
 \]
-for the purpose of comstrict the value of $\braket{\delta | \delta}<\epsilon$ , we have
+To ensure $\braket{\delta | \delta} < \epsilon$, we can set $\delta = \frac{\sqrt{\epsilon}}{2}$, so $\psi_{x_0,\delta}(x) = \frac{1}{\sqrt[4]{2\pi\delta^2}} e^{-\frac{(x-x_0)^2}{4\delta^2}}$. According to the previous derivation,
+\[
+\braket{\delta | \delta} = \int_{-\infty}^{+\infty} \left( x \psi_{x_0,\delta}(x) - x_0 \psi_{x_0,\delta}(x) \right)^* \left( x \psi_{x_0,\delta}(x) - x_0 \psi_{x_0,\delta}(x) \right) dx = \delta^2 = \frac{\epsilon}{4}
+\]
+this satisfies the condition $\braket{\delta | \delta} < \epsilon$.
+
+\begin{center}
+    \textbf{Problem 2 Solution}
+\end{center}
+\textbf{(1)} Consider a qubit with Hamiltonian $$H = −\mu BY$$ and and the initial state at time t = 0 is $\ket{\uparrow}$. 
 \end{document}
