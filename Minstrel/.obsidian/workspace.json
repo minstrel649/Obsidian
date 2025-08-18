@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Math/syc/数学/实变函数论与泛函分析（下）第二版修订本 (夏道行等) (Z-Library).pdf"
+                "file": "Physics/量子力学/syc/Assignment/1/Assignment_1.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "实变函数论与泛函分析（下）第二版修订本 (夏道行等) (Z-Library)"
+              "title": "Assignment_1"
             }
           }
         ]
@@ -194,17 +194,17 @@
   },
   "active": "e4d6c629519d3b0b",
   "lastOpenFiles": [
+    "Physics/量子力学/syc/Assignment/1/answer.pdf",
+    "Physics/量子力学/syc/Assignment/1/作业1.md",
+    "Math/syc/数学/实变函数论与泛函分析（下）第二版修订本 (夏道行等) (Z-Library).pdf",
+    "Physics/量子力学/syc/Assignment/1/answer.synctex(busy)",
+    "Physics/量子力学/syc/Assignment/1/answer.out",
+    "Physics/量子力学/syc/Assignment/1/answer.aux",
     "Physics/Statistic physics/syc/Statistical Physics Berkeley Physics Course, Vol. 5 (F. Reif) (Z-Library).pdf",
     "Math/syc/数学/点集拓扑 (徐森林, 胡自胜, 金亚东, 薛春华) (Z-Library).pdf",
-    "Math/syc/数学/实变函数论与泛函分析（下）第二版修订本 (夏道行等) (Z-Library).pdf",
     "Math/syc/数学/实变函数与泛函分析基础 第4版 (程其襄, 张奠宙, 胡善文, 薛以锋) (Z-Library).pdf",
     "Math/syc/数学/复分析 (Elias M.Stein Rami Shakarchi) (Z-Library).pdf",
     "Math/syc/数学/Mathematical Physics A Modern Introduction to Its Foundations (Sadri Hassani (auth.)) (Z-Library).pdf",
-    "Math/syc/数学/LADR4eChinese.pdf",
-    "Math/syc/数学",
-    "Math/syc",
-    "Math/新建文件夹",
-    "Physics/Statistic physics/syc/Lectures - Part I.pdf",
     "画布放映模式演示.canvas",
     "Physics/量子力学/量子力学.md",
     "Main（record+navigation）.md",
@@ -215,7 +215,6 @@
     "Math/抽象代数/抽象代数.md",
     "Math/抽象代数/notebook/群的基本概念.md",
     "Physics/电动力学/电动力学.md",
-    "Physics/量子力学/syc/Assignment/1/作业1.md",
     "Physics/量子力学/syc/未命名.canvas",
     "2025-08-13.md",
     "Math/实变函数.md",
