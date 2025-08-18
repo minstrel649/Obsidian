@@ -82,5 +82,15 @@ this satisfies the condition $\braket{\delta | \delta} < \epsilon$.
 \begin{center}
     \textbf{Problem 2 Solution}
 \end{center}
-\textbf{(1)} Consider a qubit with Hamiltonian $$H = −\mu BY$$ and and the initial state at time t = 0 is $\ket{\uparrow}$. 
+\textbf{(1)} Consider a qubit with Hamiltonian $$H = {-}\mu BY$$ and and the initial state at time t = 0 is $\ket{\uparrow}$.
+We have\[ \hat{H}\ket{\psi}=i\hbar \frac{d}{dt}\ket{\psi} \]  
+The time evolution of the state is given by:
+\begin{align*}
+    \ket{\psi(t)} &= e^{-\frac{i}{\hbar} H t} \ket{\uparrow} \\
+    &= e^{-\frac{i}{\hbar} (-\mu B Y) t} \ket{\uparrow} \\
+    &= e^{i \frac{\mu B}{\hbar} Y t} \ket{\uparrow}
+\end{align*}
+Using Taylor expansion, we can express this as:
+\[\ket{\psi(t)} = \ket{\uparrow} \left( 1 + i \frac{\mu B}{\hbar} Y t - \frac{1}{2} \left( \frac{\mu B}{\hbar} Y t \right)^2 + \cdots \right)\]
+
 \end{document}
