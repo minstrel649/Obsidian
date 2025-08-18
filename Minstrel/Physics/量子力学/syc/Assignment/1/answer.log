@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.26)  18 AUG 2025 22:33
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.26)  18 AUG 2025 22:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -238,8 +238,7 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
 )
 \Hy@SectionHShift=\skip53
-)
-No file answer.aux.
+) (./answer.aux)
 \openout1 = `answer.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
@@ -252,7 +251,7 @@ LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 11.
-(d:/QLDownload/texlive/2024/texmf-dist/tex/latex/base/ts1cmr.fd
+ (d:/QLDownload/texlive/2024/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 11.
@@ -302,14 +301,12 @@ LaTeX Font Info:    ... okay on input line 11.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring OFF on input line 11.
+(./answer.out) (./answer.out)
 \@outlinefile=\write3
 \openout3 = `answer.out'.
 
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
-
 LaTeX Font Info:    Trying to load font information for U+msa on input line 14.
-(d:/QLDownload/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
+ (d:/QLDownload/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 14.
@@ -320,45 +317,19 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ] [2]
 Missing character: There is no ⟨ (U+27E8) in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ⟩ (U+27E9) in font [lmroman12-regular]:mapping=tex-text;!
-Runaway argument?
-{
-d:/myworkspace/obsidian/MainFile/Minstrel/Physics/量子力学/syc/Assignment/1/answer.tex:152: Paragraph ended before \text@command was complete.
-<to be read again> 
-                   \par 
-l.152 
-      
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-d:/myworkspace/obsidian/MainFile/Minstrel/Physics/量子力学/syc/Assignment/1/answer.tex:152: Too many }'s.
-<recently read> \egroup 
-                        
-l.152 
-      
-You've closed more groups than you opened.
-Such booboos are generally harmless, so keep going.
-
 [3] (./answer.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
-
-
-Package rerunfilecheck Warning: File `answer.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `answer.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: File `answer.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 10098 strings out of 476720
- 153004 string characters out of 5800355
+ 10106 strings out of 476720
+ 153116 string characters out of 5800355
  1935842 words of memory out of 5000000
- 32031 multiletter control sequences out of 15000+600000
+ 32033 multiletter control sequences out of 15000+600000
  565705 words of font info for 70 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  79i,10n,93p,412b,335s stack positions out of 10000i,1000n,20000p,200000b,200000s
