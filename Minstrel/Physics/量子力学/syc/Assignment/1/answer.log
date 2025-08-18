@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.26)  18 AUG 2025 17:28
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.26)  18 AUG 2025 17:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -314,7 +314,10 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 14.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
-] [2] [3] (./answer.aux)
+] [2]
+Missing character: There is no ⟨ (U+27E8) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ⟩ (U+27E9) in font [lmroman12-regular]:mapping=tex-text;!
+[3] (./answer.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
