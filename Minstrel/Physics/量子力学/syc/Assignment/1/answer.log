@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.26)  18 AUG 2025 21:55
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.26)  18 AUG 2025 22:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -320,191 +320,21 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ] [2]
 Missing character: There is no ⟨ (U+27E8) in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ⟩ (U+27E9) in font [lmroman12-regular]:mapping=tex-text;!
-d:/myworkspace/obsidian/MainFile/Minstrel/Physics/量子力学/syc/Assignment/1/answer.tex:115: Missing $ inserted.
+d:/myworkspace/obsidian/MainFile/Minstrel/Physics/量子力学/syc/Assignment/1/answer.tex:128: Missing $ inserted.
 <inserted text> 
                 $
-l.115 
-      
+l.128 \Sigma
+            
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-d:/myworkspace/obsidian/MainFile/Minstrel/Physics/量子力学/syc/Assignment/1/answer.tex:115: Missing } inserted.
-<inserted text> 
-                }
-l.115 
-      
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-d:/myworkspace/obsidian/MainFile/Minstrel/Physics/量子力学/syc/Assignment/1/answer.tex:115: Missing } inserted.
-<inserted text> 
-                }
-l.115 
-      
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-d:/myworkspace/obsidian/MainFile/Minstrel/Physics/量子力学/syc/Assignment/1/answer.tex:115: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.115 
-      
-I'm guessing that you meant to end an alignment here.
-
-d:/myworkspace/obsidian/MainFile/Minstrel/Physics/量子力学/syc/Assignment/1/answer.tex:115: Missing { inserted.
-<inserted text> 
-                {
-l.115 
-      
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-d:/myworkspace/obsidian/MainFile/Minstrel/Physics/量子力学/syc/Assignment/1/answer.tex:115: Missing $ inserted.
+d:/myworkspace/obsidian/MainFile/Minstrel/Physics/量子力学/syc/Assignment/1/answer.tex:129: Missing $ inserted.
 <inserted text> 
                 $
-l.115 
+l.129 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
-
-d:/myworkspace/obsidian/MainFile/Minstrel/Physics/量子力学/syc/Assignment/1/answer.tex:116: Misplaced \crcr.
-\endaligned ->\crcr 
-                    \egroup \restorecolumn@ \egroup 
-l.116 \end{aligned}
-                   
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-d:/myworkspace/obsidian/MainFile/Minstrel/Physics/量子力学/syc/Assignment/1/answer.tex:116: Extra }, or forgotten \endgroup.
-\endaligned ...cr \egroup \restorecolumn@ \egroup 
-                                                  
-l.116 \end{aligned}
-                   
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-d:/myworkspace/obsidian/MainFile/Minstrel/Physics/量子力学/syc/Assignment/1/answer.tex:118: Display math should end with $$.
-<to be read again> 
-                   S
-l.118 ... can record the n-th measure result as $S
-                                                  _1(n)$ and we have:
-The `$' that I just saw supposedly matches a previous `$$'.
-So I shall assume that you typed `$$' both times.
-
-
-Overfull \hbox (95.22638pt too wide) detected at line 118
-[] \OML/cmm/m/it/12 likewise; wecanrecordthen \OMS/cmsy/m/n/12 ^^@ \OML/cmm/m/it/12 thmeasureresultas
- []
-
-d:/myworkspace/obsidian/MainFile/Minstrel/Physics/量子力学/syc/Assignment/1/answer.tex:118: Missing $ inserted.
-<inserted text> 
-                $
-l.118 ...can record the n-th measure result as $S_
-                                                  1(n)$ and we have:
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-d:/myworkspace/obsidian/MainFile/Minstrel/Physics/量子力学/syc/Assignment/1/answer.tex:125: Missing $ inserted.
-<inserted text> 
-                $
-l.125 
-      
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-d:/myworkspace/obsidian/MainFile/Minstrel/Physics/量子力学/syc/Assignment/1/answer.tex:125: Missing } inserted.
-<inserted text> 
-                }
-l.125 
-      
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-d:/myworkspace/obsidian/MainFile/Minstrel/Physics/量子力学/syc/Assignment/1/answer.tex:125: Missing } inserted.
-<inserted text> 
-                }
-l.125 
-      
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-d:/myworkspace/obsidian/MainFile/Minstrel/Physics/量子力学/syc/Assignment/1/answer.tex:125: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.125 
-      
-I'm guessing that you meant to end an alignment here.
-
-d:/myworkspace/obsidian/MainFile/Minstrel/Physics/量子力学/syc/Assignment/1/answer.tex:125: Missing { inserted.
-<inserted text> 
-                {
-l.125 
-      
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-d:/myworkspace/obsidian/MainFile/Minstrel/Physics/量子力学/syc/Assignment/1/answer.tex:125: Missing $ inserted.
-<inserted text> 
-                $
-l.125 
-      
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-d:/myworkspace/obsidian/MainFile/Minstrel/Physics/量子力学/syc/Assignment/1/answer.tex:126: Misplaced \crcr.
-\endaligned ->\crcr 
-                    \egroup \restorecolumn@ \egroup 
-l.126 \end{aligned}
-                   \right.
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-d:/myworkspace/obsidian/MainFile/Minstrel/Physics/量子力学/syc/Assignment/1/answer.tex:126: Extra }, or forgotten \endgroup.
-\endaligned ...cr \egroup \restorecolumn@ \egroup 
-                                                  
-l.126 \end{aligned}
-                   \right.
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-
-d:/myworkspace/obsidian/MainFile/Minstrel/Physics/量子力学/syc/Assignment/1/answer.tex:129: LaTeX Error: \begin{equation*} on input line 108 ended by \end{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.129 \end{document}
-                    
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
 
 [3] (./answer.aux)
  ***********
@@ -520,11 +350,7 @@ Package rerunfilecheck Warning: File `answer.out' has changed.
 Package rerunfilecheck Info: Checksums for `answer.out':
 (rerunfilecheck)             Before: <no file>
 (rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
- )
-(\end occurred inside a group at level 1)
-
-### semi simple group (level 1) entered at line 108 (\begingroup)
-### bottom level 
+ ) 
 Here is how much of TeX's memory you used:
  10098 strings out of 476720
  153004 string characters out of 5800355
@@ -532,6 +358,6 @@ Here is how much of TeX's memory you used:
  32031 multiletter control sequences out of 15000+600000
  565705 words of font info for 70 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 79i,10n,93p,412b,343s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,10n,93p,412b,335s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on answer.pdf (3 pages).

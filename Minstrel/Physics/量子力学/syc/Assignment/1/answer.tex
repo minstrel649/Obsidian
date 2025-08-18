@@ -102,28 +102,29 @@ where $\braket{\uparrow | Z | \uparrow} = 1$, $\braket{\downarrow | Z | \downarr
     \braket{Z} &= \cos^2(\theta) - \sin^2(\theta) \\
     &= \cos(2\theta)
 \end{align*}
+likewise, we can record the n-th measure result as $S_{n}(0/1)$ and we have:
 
-
-record the n-th measure result as $S_0(n)$ and we have:
 \[
 \left\{
 \begin{aligned}
-    &p(S_0(1)) = 1 \\
-    &p(S_0(2)) = \cos^2(\theta) \cdot 1 \\
+    &p(S_{0}(0)) = 1 \\
+    &p(S_{1}(0)) = \cos^2(\theta) \cdot 1 \\
     &\cdots \\
-    &p(S_0(n)) = \cos^2(\theta) \cdot p(S_0(n-1))+ \sin^2(\theta) \cdot p(S_1(n-1))
-
+    &p(S_{n}(0)) = \cos^2(\theta) \cdot p(S_{n-1}(0)) + \sin^2(\theta) \cdot p(S_{n-1}(1)) \\
 \end{aligned}
 \right.
-likewise, we can record the n-th measure result as $S_1(n)$ and we have:
-\[\left\{
-\begin{aligned}
-    &p(S_1(1)) = 0 \\
-    &p(S_1(2)) = \sin^2(\theta) \cdot 1 \\
-    &\cdots \\
-    &p(S_1(n)) = \sin^2(\theta) \cdot p(S_0(n-1))+ \cos^2(\theta) \cdot p(S_1(n-1))
-
-\end{aligned}\right.
 \]
+\[
+\left\{
+\begin{aligned}
+    &p(S_{0}(1)) = 0 \\
+    &p(S_{1}(1)) = \sin^2(\theta) \cdot 1 \\
+    &\cdots \\
+    &p(S_{n}(1)) = \sin^2(\theta) \cdot p(S_{n-1}(0))+ \cos^2(\theta) \cdot p(S_{n-1}(1)) \\
+\end{aligned}
+\right.
+\]
+
+\Sigma
 
 \end{document}
