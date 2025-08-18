@@ -27,9 +27,7 @@
 			"id":"b7913d83e4daa756",
 			"type":"file",
 			"file":"Welcome.md",
-			"styleAttributes":{
-				"validationState":null
-			},
+			"styleAttributes":{"validationState":"approved"},
 			"x":-120,
 			"y":640,
 			"width":1200,

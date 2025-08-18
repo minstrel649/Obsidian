@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Physics/电动力学/syc/01 Fields in Matter.pdf"
+                "file": "Physics/量子力学/syc/Introduction to Quantum Mechanics (David J. Griffiths, Darrell F. Schroeter) (Z-Library).pdf"
               },
               "icon": "lucide-file-text",
-              "title": "01 Fields in Matter"
+              "title": "Introduction to Quantum Mechanics (David J. Griffiths, Darrell F. Schroeter) (Z-Library)"
             }
           }
         ]
@@ -194,8 +194,15 @@
   },
   "active": "e4d6c629519d3b0b",
   "lastOpenFiles": [
-    "Physics/电动力学/syc/Tutorials/Tut1 Fields in Matter.pdf",
+    "Physics/量子力学/量子力学.md",
+    "Main（record+navigation）.md",
+    "画布放映模式演示.canvas",
+    "2025-08-18.md",
+    "Math/抽象代数/Algebra ([美]阿延（Artin,M.)著, (美)Michael Artin著, Tin Ar) (Z-Library).pdf",
+    "未命名.canvas",
+    "Physics/Statistic physics/syc/Lectures - Part I.pdf",
     "Physics/电动力学/syc/01 Fields in Matter.pdf",
+    "Physics/电动力学/syc/Tutorials/Tut1 Fields in Matter.pdf",
     "Math/抽象代数/习题/群的基本概念习题.md",
     "Physics/电动力学/syc/Tutorials/Tut5 Electrodynamics & Relativity.pdf",
     "Physics/电动力学/syc/Tutorials/Tut4 Radiation.pdf",
@@ -203,25 +210,19 @@
     "Physics/电动力学/syc/Tutorials/Tut2 EM Waves.pdf",
     "Physics/电动力学/syc/Tutorials",
     "Physics/电动力学/syc/course_files_export/Tutorials/Tut5 Electrodynamics & Relativity.pdf",
-    "Physics/电动力学/syc/course_files_export/Tutorials/Tut4 Radiation.pdf",
-    "Physics/电动力学/syc/course_files_export/Tutorials/Tut3 Potentials & Fields.pdf",
-    "Physics/电动力学/syc/course_files_export/Tutorials/Tut2 EM Waves.pdf",
     "Math/抽象代数/notebook/环的基本概念.md",
     "Math/抽象代数/抽象代数.md",
     "Math/抽象代数/notebook/群的基本概念.md",
     "Physics/电动力学/电动力学.md",
     "Physics/量子力学/syc/Assignment/1/作业1.md",
     "Physics/量子力学/syc/未命名.canvas",
-    "Physics/量子力学/量子力学.md",
     "2025-08-13.md",
     "Math/实变函数.md",
-    "Main（record+navigation）.md",
     "2025-08-12.md",
     "“百度”.md",
     "Physics/Statistic physics/Statistic physics.md",
     "未命名.md",
     "Daily Writing.md",
-    "画布放映模式演示.canvas",
     "幻灯片功能演示.md",
     "Welcome.md",
     "Physics/Statistic physics.md"
