@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Physics/Statistic physics/syc/Statistical Physics Berkeley Physics Course, Vol. 5 (F. Reif) (Z-Library).pdf"
+                "file": "Math/syc/数学/实变函数论与泛函分析（下）第二版修订本 (夏道行等) (Z-Library).pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Statistical Physics Berkeley Physics Course, Vol. 5 (F. Reif) (Z-Library)"
+              "title": "实变函数论与泛函分析（下）第二版修订本 (夏道行等) (Z-Library)"
             }
           }
         ]
@@ -192,8 +192,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ad4cf4aa4e681f60",
+  "active": "e4d6c629519d3b0b",
   "lastOpenFiles": [
+    "Physics/Statistic physics/syc/Statistical Physics Berkeley Physics Course, Vol. 5 (F. Reif) (Z-Library).pdf",
     "Math/syc/数学/点集拓扑 (徐森林, 胡自胜, 金亚东, 薛春华) (Z-Library).pdf",
     "Math/syc/数学/实变函数论与泛函分析（下）第二版修订本 (夏道行等) (Z-Library).pdf",
     "Math/syc/数学/实变函数与泛函分析基础 第4版 (程其襄, 张奠宙, 胡善文, 薛以锋) (Z-Library).pdf",
@@ -205,7 +206,6 @@
     "Math/新建文件夹",
     "Physics/Statistic physics/syc/Lectures - Part I.pdf",
     "画布放映模式演示.canvas",
-    "Physics/量子力学/syc/Introduction to Quantum Mechanics (David J. Griffiths, Darrell F. Schroeter) (Z-Library).pdf",
     "Physics/量子力学/量子力学.md",
     "Main（record+navigation）.md",
     "2025-08-18.md",
