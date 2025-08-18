@@ -58,5 +58,20 @@ Considering the Gaussian wave packet $\psi_{x_0,\epsilon}(x)={(\frac{1}{{2\pi\ep
 \]
 and 
 \[
-\int_{-\infty}^{+\infty}(x-x_0)^2\frac{1}{\sqrt{2\pi\sigma}}e^{-\frac{(x-x_0)^2}{2\sigma}}dx\]
+\int_{-\infty}^{+\infty}(x-x_0)^2\frac{1}{\sqrt{2\pi\epsilon^2}}e^{-\frac{(x-x_0)^2}{2\epsilon^2}}dx
+= \left. -\frac{\partial}{\partial a} \int_{-\infty}^{+\infty} \frac{1}{\sqrt{2\pi\epsilon^2}} e^{-a(x-x_0)^2} dx \right|_{a = \frac{1}{2\epsilon^2}}
+\]
+注意
+\[
+\int_{-\infty}^{+\infty} e^{-a(x-x_0)^2} dx = \sqrt{\frac{\pi}{a}}
+\]
+因此
+\[
+-\frac{\partial}{\partial a} \sqrt{\frac{\pi}{a}} = \frac{1}{2} \sqrt{\pi} a^{-3/2}
+\]
+代入 $a = \frac{1}{2\epsilon^2}$，得
+\[
+\int_{-\infty}^{+\infty}(x-x_0)^2\frac{1}{\sqrt{2\pi\epsilon^2}}e^{-\frac{(x-x_0)^2}{2\epsilon^2}}dx = \epsilon^2
+\]
+
 \end{document}

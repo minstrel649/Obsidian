@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.26)  18 AUG 2025 16:04
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.26)  18 AUG 2025 16:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -314,7 +314,16 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 14.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
-] [2] (./answer.aux)
+]
+Missing character: There is no 注 (U+6CE8) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 意 (U+610F) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 因 (U+56E0) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 此 (U+6B64) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 代 (U+4EE3) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 入 (U+5165) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ， (U+FF0C) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 得 (U+5F97) in font [lmroman12-regular]:mapping=tex-text;!
+[2] (./answer.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
