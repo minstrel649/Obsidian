@@ -11,12 +11,14 @@
             "id": "1562cc13db4b1165",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Physics/量子力学/syc/Assignment/1/Assignment_1.pdf"
+                "file": "Math/抽象代数/notebook/环的基本概念.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Assignment_1"
+              "icon": "lucide-file",
+              "title": "环的基本概念"
             }
           }
         ]
@@ -194,11 +196,11 @@
   },
   "active": "1562cc13db4b1165",
   "lastOpenFiles": [
+    "Physics/量子力学/syc/Assignment/1/Assignment_1.pdf",
     "Physics/量子力学/syc/Assignment/1/answer.synctex(busy)",
     "Physics/量子力学/syc/Assignment/1/answer.out",
     "Physics/量子力学/syc/Assignment/1/answer.aux",
     "Math/syc/数学/LADR4eChinese.pdf",
-    "Physics/量子力学/syc/Assignment/1/Assignment_1.pdf",
     "Physics/量子力学/syc/Assignment/1/作业1.md",
     "Physics/量子力学/syc/Week 1.pdf",
     "Physics/量子力学/syc/Week 2.pdf",
