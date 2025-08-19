@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Math/syc/数学/LADR4eChinese.pdf"
+                "file": "Physics/量子力学/syc/Assignment/1/Assignment_1.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "LADR4eChinese"
+              "title": "Assignment_1"
             }
           }
         ]
@@ -194,6 +194,10 @@
   },
   "active": "1562cc13db4b1165",
   "lastOpenFiles": [
+    "Physics/量子力学/syc/Assignment/1/answer.synctex(busy)",
+    "Physics/量子力学/syc/Assignment/1/answer.out",
+    "Physics/量子力学/syc/Assignment/1/answer.aux",
+    "Math/syc/数学/LADR4eChinese.pdf",
     "Physics/量子力学/syc/Assignment/1/Assignment_1.pdf",
     "Physics/量子力学/syc/Assignment/1/作业1.md",
     "Physics/量子力学/syc/Week 1.pdf",
@@ -204,10 +208,7 @@
     "Physics/量子力学/notebook",
     "Physics/量子力学/syc/The Principles of Quantum Mechanics (Paul A. M. Dirac) (Z-Library).pdf",
     "Physics/量子力学/syc/Introduction to Quantum Mechanics (David J. Griffiths, Darrell F. Schroeter) (Z-Library).pdf",
-    "Physics/量子力学/syc/978-3-030-13724-3.pdf",
     "Physics/量子力学/syc/未命名.canvas",
-    "Physics/量子力学/syc/Assignment/1/answer.synctex(busy)",
-    "Physics/量子力学/syc/Assignment/1/answer.out",
     "Math/抽象代数/习题/群的基本概念习题.md",
     "画布放映模式演示.canvas",
     "Main（record+navigation）.md",

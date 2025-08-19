@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.26)  19 AUG 2025 09:17
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.26)  19 AUG 2025 19:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -318,7 +318,46 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 Missing character: There is no ⟨ (U+27E8) in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ⟩ (U+27E9) in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ⟩ ("27E9) in font cmr12!
-[3] [4] (./answer.aux)
+[3]
+Missing character: There is no 自 (U+81EA) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 伴 (U+4F34) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 算 (U+7B97) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 子 (U+5B50) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 在 (U+5728) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 希 (U+5E0C) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 尔 (U+5C14) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 伯 (U+4F2F) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 特 (U+7279) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 空 (U+7A7A) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 间 (U+95F4) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 内 (U+5185) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 可 (U+53EF) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 以 (U+4EE5) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 进 (U+8FDB) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 行 (U+884C) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 谱 (U+8C31) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 分 (U+5206) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 解 (U+89E3) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ， (U+FF0C) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 设 (U+8BBE) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 其 (U+5176) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 本 (U+672C) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 征 (U+5F81) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 值 (U+503C) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 为 (U+4E3A) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ， (U+FF0C) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 对 (U+5BF9) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 应 (U+5E94) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 的 (U+7684) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 本 (U+672C) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 征 (U+5F81) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 态 (U+6001) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 为 (U+4E3A) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ， (U+FF0C) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 则 (U+5219) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 有 (U+6709) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ： (U+FF1A) in font [lmroman12-regular]:mapping=tex-text;!
+[4] (./answer.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
