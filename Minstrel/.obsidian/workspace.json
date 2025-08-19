@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Physics/量子力学/syc/Week 1.pdf"
+                "file": "Physics/量子力学/syc/Week 2.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Week 1"
+              "title": "Week 2"
             }
           }
         ]
@@ -194,6 +194,9 @@
   },
   "active": "1562cc13db4b1165",
   "lastOpenFiles": [
+    "Physics/量子力学/syc/Week 1.pdf",
+    "Physics/量子力学/syc/Week 2.pdf",
+    "Physics/量子力学/syc/Week 2.pdf.crdownload",
     "Physics/量子力学/notebook/Bloch sphere.md",
     "Physics/量子力学/量子力学.md",
     "Physics/量子力学/notebook",
@@ -205,8 +208,6 @@
     "Physics/量子力学/syc/Assignment/1/answer.synctex(busy)",
     "Physics/量子力学/syc/Assignment/1/answer.out",
     "Physics/量子力学/syc/Assignment/1/answer.aux",
-    "Physics/量子力学/syc/Assignment/1/answer.pdf",
-    "Math/抽象代数/Algebra ([美]阿延（Artin,M.)著, (美)Michael Artin著, Tin Ar) (Z-Library).pdf",
     "Math/抽象代数/习题/群的基本概念习题.md",
     "Physics/量子力学/syc/Assignment/1/作业1.md",
     "画布放映模式演示.canvas",
