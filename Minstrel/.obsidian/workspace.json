@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Physics/量子力学/syc/Week 2.pdf"
+                "file": "Physics/量子力学/syc/Week 1.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Week 2"
+              "title": "Week 1"
             }
           }
         ]
@@ -194,8 +194,8 @@
   },
   "active": "1562cc13db4b1165",
   "lastOpenFiles": [
-    "Physics/量子力学/notebook/Bloch sphere.md",
     "Physics/量子力学/syc/Week 2.pdf",
+    "Physics/量子力学/notebook/Bloch sphere.md",
     "Physics/量子力学/syc/Week 1.pdf",
     "Physics/量子力学/syc/Week 2.pdf.crdownload",
     "Physics/量子力学/量子力学.md",
