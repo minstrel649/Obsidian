@@ -150,7 +150,15 @@ Now consider $n = k+1$:
 
 \textbf{(3)} When $\delta t\to 0$ while T is fixed:
 \[
-p(\ket{00\cdots 0}) = \lim_{\delta t \to 0} p(S_{n}(0)) = \lim_{\delta t \to 0} \cos^{2[\frac{T}{\delta t}]}(\frac{\mu B \delta t}{\hbar}) = e^{\frac{2T}{\delta t}\ln(cos(\frac{\mu B \delta t}{\hbar}))}\text{~}1
+p(\ket{00\cdots 0}) = \lim_{\delta t \to 0} p(S_{n}(0)) = \lim_{\delta t \to 0} \cos^{2[\frac{T}{\delta t}]}(\frac{\mu B \delta t}{\hbar}) = e^{\frac{2T}{\delta t}\ln(cos(\frac{\mu B \delta t}{\hbar}))}=1
 \]
 
+\textbf{(4)}  At $t = T$ , what is the probability to find the qubit in state$\ket{\uparrow}$, and what is the probability to find the qubit in state$\ket{ \downarrow⟩}$? What is the expectation value$ \braket{Z}$ measured at this time? 
+we have:
+\[
+p_{n+1}(0)=p_{n}(0)\cdot\cos^2(\theta)+(1-p_{n}(0))\cdot \sin^2(\theta) 
+\]
+\[
+p_{n+1}(0)-\frac{1}{2}=\cos(2\theta)(p_{n}(0)-\frac{1}{2})
+\]
 \end{document}
