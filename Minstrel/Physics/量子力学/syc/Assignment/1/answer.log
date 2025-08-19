@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.26)  19 AUG 2025 19:07
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.26)  19 AUG 2025 19:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -357,6 +357,8 @@ Missing character: There is no ， (U+FF0C) in font [lmroman12-regular]:mapping=
 Missing character: There is no 则 (U+5219) in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no 有 (U+6709) in font [lmroman12-regular]:mapping=tex-text;!
 Missing character: There is no ： (U+FF1A) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 证 (U+8BC1) in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no 明 (U+660E) in font [lmroman12-regular]:mapping=tex-text;!
 [4] (./answer.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
