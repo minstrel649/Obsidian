@@ -11,12 +11,14 @@
             "id": "e4d6c629519d3b0b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Physics/量子力学/syc/Assignment/1/Assignment_1.pdf"
+                "file": "Physics/量子力学/notebook/Bloch sphere.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Assignment_1"
+              "icon": "lucide-file",
+              "title": "Bloch sphere"
             }
           }
         ]
@@ -194,21 +196,22 @@
   },
   "active": "e4d6c629519d3b0b",
   "lastOpenFiles": [
+    "Physics/量子力学/量子力学.md",
+    "Physics/量子力学/notebook/Bloch sphere.md",
+    "Physics/量子力学/notebook",
+    "Physics/量子力学/syc/The Principles of Quantum Mechanics (Paul A. M. Dirac) (Z-Library).pdf",
+    "Physics/量子力学/syc/Introduction to Quantum Mechanics (David J. Griffiths, Darrell F. Schroeter) (Z-Library).pdf",
+    "Physics/量子力学/syc/978-3-030-13724-3.pdf",
+    "Physics/量子力学/syc/未命名.canvas",
+    "Physics/量子力学/syc/Assignment/1/Assignment_1.pdf",
     "Physics/量子力学/syc/Assignment/1/answer.synctex(busy)",
     "Physics/量子力学/syc/Assignment/1/answer.out",
     "Physics/量子力学/syc/Assignment/1/answer.aux",
     "Physics/量子力学/syc/Assignment/1/answer.pdf",
-    "Physics/量子力学/syc/Assignment/1/Assignment_1.pdf",
     "Math/抽象代数/Algebra ([美]阿延（Artin,M.)著, (美)Michael Artin著, Tin Ar) (Z-Library).pdf",
     "Math/抽象代数/习题/群的基本概念习题.md",
-    "Math/syc/数学/Mathematical Physics A Modern Introduction to Its Foundations (Sadri Hassani (auth.)) (Z-Library).pdf",
-    "Math/syc/数学/LADR4eChinese.pdf",
-    "Math/syc/数学/实变函数与泛函分析基础 第4版 (程其襄, 张奠宙, 胡善文, 薛以锋) (Z-Library).pdf",
-    "Math/syc/数学/实变函数论与泛函分析（下）第二版修订本 (夏道行等) (Z-Library).pdf",
-    "Math/syc/数学/复分析 (Elias M.Stein Rami Shakarchi) (Z-Library).pdf",
     "Physics/量子力学/syc/Assignment/1/作业1.md",
     "画布放映模式演示.canvas",
-    "Physics/量子力学/量子力学.md",
     "Main（record+navigation）.md",
     "2025-08-18.md",
     "未命名.canvas",
@@ -216,7 +219,6 @@
     "Math/抽象代数/抽象代数.md",
     "Math/抽象代数/notebook/群的基本概念.md",
     "Physics/电动力学/电动力学.md",
-    "Physics/量子力学/syc/未命名.canvas",
     "2025-08-13.md",
     "Math/实变函数.md",
     "2025-08-12.md",
