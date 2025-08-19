@@ -6,6 +6,7 @@
       {
         "id": "16168e2f488ea1f9",
         "type": "tabs",
+        "dimension": 40.42553191489361,
         "children": [
           {
             "id": "e4d6c629519d3b0b",
@@ -15,7 +16,28 @@
               "state": {
                 "file": "Physics/量子力学/notebook/Bloch sphere.md",
                 "mode": "source",
-                "source": false
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Bloch sphere"
+            }
+          }
+        ]
+      },
+      {
+        "id": "3971aeb457aeac09",
+        "type": "tabs",
+        "dimension": 59.57446808510638,
+        "children": [
+          {
+            "id": "1562cc13db4b1165",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/量子力学/notebook/Bloch sphere.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Bloch sphere"
@@ -194,7 +216,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e4d6c629519d3b0b",
+  "active": "1562cc13db4b1165",
   "lastOpenFiles": [
     "Physics/量子力学/量子力学.md",
     "Physics/量子力学/notebook/Bloch sphere.md",
