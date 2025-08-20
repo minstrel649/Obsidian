@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Physics/量子力学/syc/Assignment/1/answer.pdf"
+                "file": "Math/抽象代数/Algebra ([美]阿延（Artin,M.)著, (美)Michael Artin著, Tin Ar) (Z-Library).pdf"
               },
               "icon": "lucide-file-text",
-              "title": "answer"
+              "title": "Algebra ([美]阿延（Artin,M.)著, (美)Michael Artin著, Tin Ar) (Z-Library)"
             }
           }
         ]
@@ -76,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 445.5
+    "width": 445.5,
+    "collapsed": true
   },
   "right": {
     "id": "18452badd9d034f1",
@@ -194,6 +195,7 @@
   },
   "active": "287e22cb560d134d",
   "lastOpenFiles": [
+    "Physics/量子力学/syc/Assignment/1/answer.pdf",
     "Physics/量子力学/syc/Assignment/1/Assignment_1.pdf",
     "Physics/量子力学/syc/Assignment/1/answer.synctex(busy)",
     "Physics/量子力学/syc/Assignment/1/answer.out",
