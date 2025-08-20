@@ -11,12 +11,14 @@
             "id": "287e22cb560d134d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Math/抽象代数/Algebra ([美]阿延（Artin,M.)著, (美)Michael Artin著, Tin Ar) (Z-Library).pdf"
+                "file": "Math/抽象代数/notebook/环的基本概念.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Algebra ([美]阿延（Artin,M.)著, (美)Michael Artin著, Tin Ar) (Z-Library)"
+              "icon": "lucide-file",
+              "title": "环的基本概念"
             }
           }
         ]
@@ -76,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 445.5,
-    "collapsed": true
+    "width": 445.5
   },
   "right": {
     "id": "18452badd9d034f1",
@@ -195,6 +196,8 @@
   },
   "active": "287e22cb560d134d",
   "lastOpenFiles": [
+    "Math/抽象代数/notebook/群的基本概念.md",
+    "Math/抽象代数/Algebra ([美]阿延（Artin,M.)著, (美)Michael Artin著, Tin Ar) (Z-Library).pdf",
     "Physics/量子力学/syc/Assignment/1/answer.pdf",
     "Physics/量子力学/syc/Assignment/1/Assignment_1.pdf",
     "Physics/量子力学/syc/Assignment/1/answer.synctex(busy)",
@@ -205,10 +208,7 @@
     "Physics/电动力学/syc/01 Fields in Matter.pdf",
     "Physics/电动力学/syc/1 Poynting Theorem.pdf",
     "Physics/电动力学/syc/Formula.pdf",
-    "Physics/电动力学/syc/Instructors Solutions Manual for Introduction to Electrodynamics, 4th edition (2013) (David J. Griffiths) (Z-Library).pdf",
-    "Physics/电动力学/syc/02 EM Waves.pdf",
     "Math/抽象代数/notebook/环的基本概念.md",
-    "Math/抽象代数/notebook/群的基本概念.md",
     "Physics/量子力学/syc/Assignment/1/作业1.md",
     "Physics/量子力学/量子力学.md",
     "Physics/量子力学/syc/未命名.canvas",
