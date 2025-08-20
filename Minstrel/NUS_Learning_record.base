@@ -1,0 +1,8 @@
+views:
+  - type: table
+    name: 表格
+    sort:
+      - property: file.basename
+        direction: ASC
+  - type: table
+    name: 视图
