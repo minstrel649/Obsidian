@@ -4,43 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3971aeb457aeac09",
+        "id": "48e38a0a893d1a3f",
         "type": "tabs",
-        "dimension": 59.692671394799056,
         "children": [
           {
-            "id": "1562cc13db4b1165",
+            "id": "287e22cb560d134d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Math/抽象代数/notebook/环的基本概念.md",
-                "mode": "source",
-                "source": false
+                "file": "Physics/电动力学/syc/01 Fields in Matter.pdf"
               },
-              "icon": "lucide-file",
-              "title": "环的基本概念"
-            }
-          }
-        ]
-      },
-      {
-        "id": "b2b3f6eebb07d471",
-        "type": "tabs",
-        "dimension": 40.30732860520095,
-        "children": [
-          {
-            "id": "4e6ceae3ca6180a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/抽象代数/notebook/环的基本概念.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "环的基本概念"
+              "icon": "lucide-file-text",
+              "title": "01 Fields in Matter"
             }
           }
         ]
@@ -216,10 +192,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4e6ceae3ca6180a8",
+  "active": "287e22cb560d134d",
   "lastOpenFiles": [
-    "Math/抽象代数/notebook/群的基本概念.md",
+    "Physics/电动力学/syc/01 Fields in Matter.pdf",
+    "Physics/电动力学/syc/1 Poynting Theorem.pdf",
     "Math/抽象代数/notebook/环的基本概念.md",
+    "Math/抽象代数/notebook/群的基本概念.md",
     "Physics/量子力学/syc/Assignment/1/Assignment_1.pdf",
     "Physics/量子力学/syc/Assignment/1/answer.synctex(busy)",
     "Physics/量子力学/syc/Assignment/1/answer.out",
@@ -232,7 +210,6 @@
     "Physics/量子力学/syc/Week 2.pdf.crdownload",
     "Physics/量子力学/量子力学.md",
     "Physics/量子力学/notebook",
-    "Physics/量子力学/syc/The Principles of Quantum Mechanics (Paul A. M. Dirac) (Z-Library).pdf",
     "Physics/量子力学/syc/未命名.canvas",
     "Math/抽象代数/习题/群的基本概念习题.md",
     "画布放映模式演示.canvas",
