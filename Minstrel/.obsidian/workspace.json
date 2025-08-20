@@ -148,12 +148,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/电动力学/syc/01 Fields in Matter.pdf",
+                "file": "Physics/电动力学/电动力学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "01 Fields in Matter 的出链列表"
+              "title": "电动力学 的出链列表"
             }
           },
           {
@@ -230,10 +230,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8a3f48b269fbf9b8",
+  "active": "6c793cd351726e55",
   "lastOpenFiles": [
-    "Physics/电动力学/电动力学.md",
     "Physics/电动力学/syc/01 Fields in Matter.pdf",
+    "Physics/电动力学/电动力学.md",
     "Main（record+navigation）.md",
     "未命名.base",
     "NUS_Learning_record.base",
