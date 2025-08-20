@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "48e38a0a893d1a3f",
+        "id": "4f6bb64ef463204b",
         "type": "tabs",
         "children": [
           {
-            "id": "287e22cb560d134d",
+            "id": "cfb112be9f2ee566",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,28 +20,19 @@
               "icon": "lucide-file",
               "title": "环的基本概念"
             }
-          }
-        ]
-      },
-      {
-        "id": "3549fec31499bfa6",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "8aa3e92e30b2d542",
+            "id": "63b80324d585e20c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/抽象代数/notebook/环的基本概念.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "环的基本概念"
+              "type": "smart-chat-view",
+              "state": {},
+              "icon": "smart-chat",
+              "title": "Smart Chat"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/量子力学/syc/Week 1.pdf",
+                "file": "Math/抽象代数/notebook/环的基本概念.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Week 1 的反向链接列表"
+              "title": "环的基本概念 的反向链接列表"
             }
           },
           {
@@ -133,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/量子力学/syc/The Principles of Quantum Mechanics (Paul A. M. Dirac) (Z-Library).pdf",
+                "file": "Math/抽象代数/notebook/环的基本概念.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "The Principles of Quantum Mechanics (Paul A. M. Dirac) (Z-Library) 的出链列表"
+              "title": "环的基本概念 的出链列表"
             }
           },
           {
@@ -162,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "心灵笔录.md",
+                "file": "Math/抽象代数/notebook/环的基本概念.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 心灵笔录"
+              "title": "环的基本概念 的大纲"
             }
           },
           {
@@ -194,13 +185,24 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "6e3e89594201be66",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
           }
         ],
         "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,14 +213,24 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "smart-connections:Open: Smart Chat": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Connections: Open random connection": true
     }
   },
-  "active": "8aa3e92e30b2d542",
+  "active": "63b80324d585e20c",
   "lastOpenFiles": [
-    "未命名 1.md",
-    "Math/抽象代数/notebook/环的基本概念.md",
+    "Math/抽象代数/习题/群的基本概念习题.md",
+    "幻灯片功能演示.md",
+    "画布放映模式演示.canvas",
+    "未命名.canvas",
+    "Physics/电动力学/syc/Tutorials/Tut1 Fields in Matter.pdf",
+    "Math/实变函数.md",
     "Math/抽象代数/notebook/群的基本概念.md",
+    "Math/抽象代数/notebook/环的基本概念.md",
+    "Math/抽象代数/抽象代数.md",
+    "未命名 1.md",
     "Math/抽象代数/Algebra ([美]阿延（Artin,M.)著, (美)Michael Artin著, Tin Ar) (Z-Library).pdf",
     "Physics/量子力学/syc/Assignment/1/answer.pdf",
     "Physics/量子力学/syc/Assignment/1/Assignment_1.pdf",
@@ -226,28 +238,21 @@
     "Physics/量子力学/syc/Assignment/1/answer.out",
     "Physics/量子力学/syc/Assignment/1/answer.aux",
     "Physics/量子力学/notebook/Bloch sphere.md",
-    "Physics/电动力学/syc/Tutorials/Tut1 Fields in Matter.pdf",
     "Physics/电动力学/syc/01 Fields in Matter.pdf",
     "Physics/电动力学/syc/1 Poynting Theorem.pdf",
     "Physics/电动力学/syc/Formula.pdf",
     "Physics/量子力学/syc/Assignment/1/作业1.md",
     "Physics/量子力学/量子力学.md",
     "Physics/量子力学/syc/未命名.canvas",
-    "Math/抽象代数/习题/群的基本概念习题.md",
-    "画布放映模式演示.canvas",
     "Main（record+navigation）.md",
     "2025-08-18.md",
-    "未命名.canvas",
-    "Math/抽象代数/抽象代数.md",
     "Physics/电动力学/电动力学.md",
     "2025-08-13.md",
-    "Math/实变函数.md",
     "2025-08-12.md",
     "“百度”.md",
     "Physics/Statistic physics/Statistic physics.md",
     "未命名.md",
     "Daily Writing.md",
-    "幻灯片功能演示.md",
     "Welcome.md",
     "Physics/Statistic physics.md"
   ]
