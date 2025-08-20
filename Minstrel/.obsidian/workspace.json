@@ -20,19 +20,28 @@
               "icon": "lucide-file",
               "title": "环的基本概念"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "63169f3b709d0083",
+        "type": "tabs",
+        "children": [
           {
-            "id": "63b80324d585e20c",
+            "id": "1fbf1bb7b3ece24d",
             "type": "leaf",
             "state": {
-              "type": "smart-chat-view",
-              "state": {},
-              "icon": "smart-chat",
-              "title": "Smart Chat"
+              "type": "markdown",
+              "state": {
+                "file": "Math/抽象代数/notebook/环的基本概念.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "环的基本概念"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,16 +194,6 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "6e3e89594201be66",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "smart-connections",
-              "title": "Connections"
-            }
           }
         ],
         "currentTab": 5
@@ -219,7 +218,7 @@
       "smart-connections:Smart Connections: Open random connection": true
     }
   },
-  "active": "63b80324d585e20c",
+  "active": "1fbf1bb7b3ece24d",
   "lastOpenFiles": [
     "Math/抽象代数/习题/群的基本概念习题.md",
     "幻灯片功能演示.md",
