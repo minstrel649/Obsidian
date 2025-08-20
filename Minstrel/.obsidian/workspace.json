@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Physics/量子力学/syc/Assignment/1/Assignment_1.pdf"
+                "file": "Physics/量子力学/syc/Assignment/1/answer.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Assignment_1"
+              "title": "answer"
             }
           }
         ]
@@ -194,6 +194,7 @@
   },
   "active": "287e22cb560d134d",
   "lastOpenFiles": [
+    "Physics/量子力学/syc/Assignment/1/Assignment_1.pdf",
     "Physics/量子力学/syc/Assignment/1/answer.synctex(busy)",
     "Physics/量子力学/syc/Assignment/1/answer.out",
     "Physics/量子力学/syc/Assignment/1/answer.aux",
@@ -206,7 +207,6 @@
     "Physics/电动力学/syc/02 EM Waves.pdf",
     "Math/抽象代数/notebook/环的基本概念.md",
     "Math/抽象代数/notebook/群的基本概念.md",
-    "Physics/量子力学/syc/Assignment/1/Assignment_1.pdf",
     "Physics/量子力学/syc/Assignment/1/作业1.md",
     "Physics/量子力学/量子力学.md",
     "Physics/量子力学/syc/未命名.canvas",
