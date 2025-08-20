@@ -1,5 +1,6 @@
 formulas:
   未命名: ""
+  作者: ""
 views:
   - type: table
     name: 表格
@@ -20,3 +21,9 @@ views:
     sort:
       - property: file.name
         direction: ASC
+  - type: cards
+    name: 视图 2
+    cardSize: 100
+    image: file.file
+    imageFit: ""
+    imageAspectRatio: 0.95
