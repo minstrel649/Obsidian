@@ -175,13 +175,16 @@ the expectation value $\braket{Z}$ measured at this time is given by:
 \end{center}
 
 \textbf{(1)} 
-自伴算子O在希尔伯特空间内可以进行谱分解，设其本征值为$\lambda_n$，对应的本征态为$\ket{\phi_n}$，则有：
+A self-adjoint operator $O$ in Hilbert space can be spectrally decomposed. Suppose its eigenvalues are $\lambda_n$ and the corresponding eigenstates are $\ket{\phi_n}$, then:
 \[
 \braket{u|O|v} = \sum_n \lambda_n \braket{u|\phi_n}\braket{\phi_n|v} \le \max_n |\lambda_n| \sqrt{\braket{u|u} \braket{v|v}} = \max_n |\lambda_n| \|u\| \|v\| 
  \]
 
- \textbf{(2)}
- 证明\[
- \ket{\psi_2}=cos(\theta)e^{i\alpha}\ket{\psi_1} + sin(\theta)e^{i\beta}\ket{\psi_w}
- \]
+\textbf{(2)}
+We try to prove
+\[
+\ket{\psi_2} = \cos(\theta) e^{i\alpha} \ket{\psi_1} + \sin(\theta) e^{i\beta} \ket{\psi_w}
+\]
+ In linear algebra, an inner product space can be regarded as the direct sum of a subspace and its orthogonal complement. For $\ket{\psi_2}$, it can be decomposed as $\ket{\psi_2} = \cos(\theta) e^{i\alpha} \ket{\psi_1} + \sin(\theta) e^{i\beta} \ket{\psi_w}$, where $\ket{\psi_1}$ is the projection of $\ket{\psi_2}$ onto $\ket{\psi_1}$, and $\ket{\psi_w}$ is the projection of $\ket{\psi_2}$ onto $\ket{\psi_w}$. Since $\ket{\psi_1}$ and $\ket{\psi_w}$ are orthogonal, their inner product is 0, i.e., $\braket{\psi_1 | \psi_w} = 0$.
+
 \end{document}
