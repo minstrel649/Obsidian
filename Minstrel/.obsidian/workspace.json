@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
+                "file": "Main（record+navigation）.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Main（record+navigation）"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Main（record+navigation）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Welcome 的出链列表"
+              "title": "Main（record+navigation） 的出链列表"
             }
           },
           {
@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -195,8 +195,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8aa314ae42a64e7c",
+  "active": "733f24490dc8d6c3",
   "lastOpenFiles": [
+    "NUS_Learning_record.base",
+    "Physics/电动力学/syc/01 Fields in Matter.pdf",
+    "Welcome.md",
     "“百度”.md",
     "2025-08-12.md",
     "2025-08-13.md",
@@ -208,8 +211,6 @@
     "未命名.md",
     "未命名 1.md",
     "Main（record+navigation）.md",
-    "NUS_Learning_record.base",
-    "Welcome.md",
     "Untitled.md",
     "test.md",
     "未命名 1.base",

@@ -1,8 +1,22 @@
+formulas:
+  未命名: ""
 views:
   - type: table
     name: 表格
+    order:
+      - file.name
+      - file.basename
+      - file.ctime
     sort:
       - property: file.basename
         direction: ASC
   - type: table
     name: 视图
+    order:
+      - file.name
+      - file.path
+      - file.ctime
+      - file.mtime
+    sort:
+      - property: file.name
+        direction: ASC
