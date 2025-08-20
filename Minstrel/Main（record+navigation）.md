@@ -1,3 +1,8 @@
+---
+tags:
+  - 导航页面
+---
+
 # 日记
 ## 它记录了我从来到新加坡之后的每日所感
  跳转[[Daily Writing]]
@@ -13,7 +18,6 @@
 -  跳转[电动力学](obsidian://open?vault=Minstrel&file=Physics%2F%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6%2F%E7%94%B5%E5%8A%A8%E5%8A%9B%E5%AD%A6)
 3. 量子力学
 跳转[[量子力学]]
-
 
 ![[NUS_Learning_record.base]]
 

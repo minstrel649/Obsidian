@@ -24,6 +24,6 @@ views:
   - type: cards
     name: 视图 2
     cardSize: 100
-    image: file.file
+    image: note.tags
     imageFit: ""
     imageAspectRatio: 0.95

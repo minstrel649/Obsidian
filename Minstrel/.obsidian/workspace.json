@@ -11,13 +11,14 @@
             "id": "8a3f48b269fbf9b8",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "NUS_Learning_record.base",
-                "viewName": "表格"
+                "file": "Physics/电动力学/电动力学.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "NUS_Learning_record"
+              "icon": "lucide-file",
+              "title": "电动力学"
             }
           }
         ]
@@ -52,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#meeting",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "搜索"
             }
           },
           {
@@ -73,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -112,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NUS_Learning_record.base",
+                "file": "Physics/电动力学/电动力学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "NUS_Learning_record 的出链列表"
+              "title": "电动力学 的出链列表"
             }
           },
           {
@@ -196,6 +198,10 @@
   },
   "active": "8a3f48b269fbf9b8",
   "lastOpenFiles": [
+    "Main（record+navigation）.md",
+    "未命名.base",
+    "NUS_Learning_record.base",
+    "syc/屏幕截图 2025-03-09 120707.png",
     "Untitled.md",
     "2025-08-13.md",
     "2025-08-12.md",
@@ -205,8 +211,6 @@
     "Physics/量子力学/notebook/Bloch sphere.md",
     "Physics/电动力学/syc/Syllabus.pdf",
     "Physics/电动力学/syc/Tutorials/Tut3 Potentials & Fields.pdf",
-    "Main（record+navigation）.md",
-    "NUS_Learning_record.base",
     "Physics/电动力学/syc/01 Fields in Matter.pdf",
     "Welcome.md",
     "“百度”.md",
@@ -218,7 +222,6 @@
     "test.md",
     "未命名 1.base",
     "Math/抽象代数/Algebra ([美]阿延（Artin,M.)著, (美)Michael Artin著, Tin Ar) (Z-Library).pdf",
-    "未命名.base",
     "Math/抽象代数/notebook/环的基本概念.md",
     "Math/抽象代数/习题/群的基本概念习题.md",
     "Physics/电动力学/syc/Tutorials/Tut1 Fields in Matter.pdf",
