@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "4f6bb64ef463204b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cfb112be9f2ee566",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/抽象代数/notebook/环的基本概念.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "环的基本概念"
-            }
-          }
-        ]
-      },
-      {
         "id": "63169f3b709d0083",
         "type": "tabs",
         "children": [
@@ -31,14 +11,12 @@
             "id": "1fbf1bb7b3ece24d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Math/抽象代数/notebook/环的基本概念.md",
-                "mode": "source",
-                "source": true
+                "file": "Math/抽象代数/Algebra ([美]阿延（Artin,M.)著, (美)Michael Artin著, Tin Ar) (Z-Library).pdf"
               },
-              "icon": "lucide-file",
-              "title": "环的基本概念"
+              "icon": "lucide-file-text",
+              "title": "Algebra ([美]阿延（Artin,M.)著, (美)Michael Artin著, Tin Ar) (Z-Library)"
             }
           }
         ]
@@ -98,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 445.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "18452badd9d034f1",
@@ -114,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/抽象代数/notebook/环的基本概念.md",
+                "file": "Math/抽象代数/Algebra ([美]阿延（Artin,M.)著, (美)Michael Artin著, Tin Ar) (Z-Library).pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "环的基本概念 的反向链接列表"
+              "title": "Algebra ([美]阿延（Artin,M.)著, (美)Michael Artin著, Tin Ar) (Z-Library) 的反向链接列表"
             }
           },
           {
@@ -133,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/抽象代数/notebook/环的基本概念.md",
+                "file": "Math/抽象代数/Algebra ([美]阿延（Artin,M.)著, (美)Michael Artin著, Tin Ar) (Z-Library).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "环的基本概念 的出链列表"
+              "title": "Algebra ([美]阿延（Artin,M.)著, (美)Michael Artin著, Tin Ar) (Z-Library) 的出链列表"
             }
           },
           {
@@ -162,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/抽象代数/notebook/环的基本概念.md",
+                "file": "Math/抽象代数/Algebra ([美]阿延（Artin,M.)著, (美)Michael Artin著, Tin Ar) (Z-Library).pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "环的基本概念 的大纲"
+              "title": "Algebra ([美]阿延（Artin,M.)著, (美)Michael Artin著, Tin Ar) (Z-Library) 的大纲"
             }
           },
           {
@@ -220,6 +199,7 @@
   },
   "active": "1fbf1bb7b3ece24d",
   "lastOpenFiles": [
+    "Math/抽象代数/notebook/环的基本概念.md",
     "Math/抽象代数/习题/群的基本概念习题.md",
     "幻灯片功能演示.md",
     "画布放映模式演示.canvas",
@@ -227,7 +207,6 @@
     "Physics/电动力学/syc/Tutorials/Tut1 Fields in Matter.pdf",
     "Math/实变函数.md",
     "Math/抽象代数/notebook/群的基本概念.md",
-    "Math/抽象代数/notebook/环的基本概念.md",
     "Math/抽象代数/抽象代数.md",
     "未命名 1.md",
     "Math/抽象代数/Algebra ([美]阿延（Artin,M.)著, (美)Michael Artin著, Tin Ar) (Z-Library).pdf",
