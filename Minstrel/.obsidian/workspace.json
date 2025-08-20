@@ -4,24 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "09d83ae7de281025",
+        "id": "7ca9004f3ce6f36e",
         "type": "tabs",
+        "dimension": 33.92857142857143,
         "children": [
           {
-            "id": "8a3f48b269fbf9b8",
+            "id": "6c793cd351726e55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Physics/电动力学/电动力学.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "电动力学"
             }
           }
         ]
+      },
+      {
+        "id": "437b8d7583819bda",
+        "type": "tabs",
+        "dimension": 66.07142857142858,
+        "children": [
+          {
+            "id": "a9138f5dcdf9e0a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/电动力学/电动力学.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "电动力学"
+            }
+          },
+          {
+            "id": "8a3f48b269fbf9b8",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Physics/电动力学/syc/01 Fields in Matter.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "01 Fields in Matter"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,8 +109,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -114,12 +148,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/电动力学/电动力学.md",
+                "file": "Physics/电动力学/syc/01 Fields in Matter.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "电动力学 的出链列表"
+              "title": "01 Fields in Matter 的出链列表"
             }
           },
           {
@@ -198,6 +232,8 @@
   },
   "active": "8a3f48b269fbf9b8",
   "lastOpenFiles": [
+    "Physics/电动力学/电动力学.md",
+    "Physics/电动力学/syc/01 Fields in Matter.pdf",
     "Main（record+navigation）.md",
     "未命名.base",
     "NUS_Learning_record.base",
@@ -211,7 +247,6 @@
     "Physics/量子力学/notebook/Bloch sphere.md",
     "Physics/电动力学/syc/Syllabus.pdf",
     "Physics/电动力学/syc/Tutorials/Tut3 Potentials & Fields.pdf",
-    "Physics/电动力学/syc/01 Fields in Matter.pdf",
     "Welcome.md",
     "“百度”.md",
     "幻灯片功能演示.md",
@@ -232,7 +267,6 @@
     "Physics/量子力学/syc/Assignment/1/作业1.md",
     "Physics/量子力学/量子力学.md",
     "Physics/量子力学/syc/未命名.canvas",
-    "Physics/电动力学/电动力学.md",
     "Physics/Statistic physics/Statistic physics.md",
     "Physics/Statistic physics.md"
   ]
