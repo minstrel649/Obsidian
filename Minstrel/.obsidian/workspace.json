@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Physics/量子力学/syc/Assignment/2/Assignment_2.pdf"
+                "file": "Math/syc/数学/LADR4eChinese.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Assignment_2"
+              "title": "LADR4eChinese"
             }
           }
         ]
@@ -196,6 +196,7 @@
   },
   "active": "6c793cd351726e55",
   "lastOpenFiles": [
+    "Physics/量子力学/syc/Assignment/2/Assignment_2.pdf",
     "Physics/量子力学/syc/Assignment/2/answer.synctex(busy)",
     "Physics/量子力学/syc/Assignment/2/answer.out",
     "Physics/量子力学/syc/Assignment/2/answer.aux",
@@ -205,7 +206,6 @@
     "Physics/量子力学/syc/Assignment/2/answer.tex",
     "Physics/量子力学/syc/Week 2.pdf",
     "Math/syc/数学/LADR4eChinese.pdf",
-    "Physics/量子力学/syc/Assignment/2/Assignment_2.pdf",
     "Physics/量子力学/syc/Assignment/1/answer.pdf",
     "Physics/电动力学/电动力学.md",
     "Main（record+navigation）.md",
