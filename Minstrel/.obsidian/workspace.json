@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Physics/量子力学/syc/Assignment/2/Assignment_2.pdf"
+                "file": "Physics/量子力学/syc/Assignment/1/Assignment_1.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Assignment_2"
+              "title": "Assignment_1"
             }
           }
         ]
@@ -76,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 586.5,
-    "collapsed": true
+    "width": 586.5
   },
   "right": {
     "id": "18452badd9d034f1",
@@ -179,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,6 +197,7 @@
   "active": "6c793cd351726e55",
   "lastOpenFiles": [
     "Physics/量子力学/syc/Week 2.pdf",
+    "Physics/量子力学/syc/Week 1.pdf",
     "Physics/量子力学/syc/Assignment/2/Assignment_2.pdf",
     "Physics/量子力学/syc/Assignment/1/answer.pdf",
     "Physics/量子力学/syc/Assignment/1/Assignment_1.pdf",
@@ -215,7 +216,6 @@
     "2025-08-18.md",
     "画布放映模式演示.canvas",
     "Physics/量子力学/notebook/Bloch sphere.md",
-    "Physics/电动力学/syc/Syllabus.pdf",
     "Welcome.md",
     "“百度”.md",
     "幻灯片功能演示.md",
