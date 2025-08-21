@@ -6,57 +6,20 @@
       {
         "id": "7ca9004f3ce6f36e",
         "type": "tabs",
-        "dimension": 33.92857142857142,
         "children": [
           {
             "id": "6c793cd351726e55",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Physics/电动力学/电动力学.md",
-                "mode": "preview",
-                "source": true
+                "file": "Physics/量子力学/syc/Assignment/2/Assignment_2.pdf"
               },
-              "icon": "lucide-file",
-              "title": "电动力学"
+              "icon": "lucide-file-text",
+              "title": "Assignment_2"
             }
           }
         ]
-      },
-      {
-        "id": "437b8d7583819bda",
-        "type": "tabs",
-        "dimension": 66.07142857142858,
-        "children": [
-          {
-            "id": "a9138f5dcdf9e0a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/电动力学/电动力学.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "电动力学"
-            }
-          },
-          {
-            "id": "8a3f48b269fbf9b8",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Physics/电动力学/syc/01 Fields in Matter.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "01 Fields in Matter"
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 586.5,
+    "collapsed": true
   },
   "right": {
     "id": "18452badd9d034f1",
@@ -232,8 +196,15 @@
   },
   "active": "6c793cd351726e55",
   "lastOpenFiles": [
-    "Physics/电动力学/syc/01 Fields in Matter.pdf",
+    "Physics/量子力学/syc/Week 2.pdf",
+    "Physics/量子力学/syc/Assignment/2/Assignment_2.pdf",
+    "Physics/量子力学/syc/Assignment/1/answer.pdf",
+    "Physics/量子力学/syc/Assignment/1/Assignment_1.pdf",
+    "Physics/量子力学/syc/Assignment/2/Assignment_2.pdf.crdownload",
+    "Physics/量子力学/syc/Assignment/2",
+    "Physics/量子力学/syc/Assignment/新建文件夹",
     "Physics/电动力学/电动力学.md",
+    "Physics/电动力学/syc/01 Fields in Matter.pdf",
     "Main（record+navigation）.md",
     "未命名.base",
     "NUS_Learning_record.base",
@@ -243,10 +214,8 @@
     "2025-08-12.md",
     "2025-08-18.md",
     "画布放映模式演示.canvas",
-    "Physics/量子力学/syc/Week 2.pdf",
     "Physics/量子力学/notebook/Bloch sphere.md",
     "Physics/电动力学/syc/Syllabus.pdf",
-    "Physics/电动力学/syc/Tutorials/Tut3 Potentials & Fields.pdf",
     "Welcome.md",
     "“百度”.md",
     "幻灯片功能演示.md",
@@ -255,15 +224,11 @@
     "未命名.md",
     "未命名 1.md",
     "test.md",
-    "未命名 1.base",
-    "Math/抽象代数/Algebra ([美]阿延（Artin,M.)著, (美)Michael Artin著, Tin Ar) (Z-Library).pdf",
     "Math/抽象代数/notebook/环的基本概念.md",
     "Math/抽象代数/习题/群的基本概念习题.md",
-    "Physics/电动力学/syc/Tutorials/Tut1 Fields in Matter.pdf",
     "Math/实变函数.md",
     "Math/抽象代数/notebook/群的基本概念.md",
     "Math/抽象代数/抽象代数.md",
-    "Physics/量子力学/syc/Assignment/1/answer.pdf",
     "Physics/量子力学/syc/Assignment/1/作业1.md",
     "Physics/量子力学/量子力学.md",
     "Physics/量子力学/syc/未命名.canvas",
