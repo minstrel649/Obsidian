@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7ca9004f3ce6f36e",
+        "id": "64af15162b7f45db",
         "type": "tabs",
         "children": [
           {
-            "id": "6c793cd351726e55",
+            "id": "32609da81281b42e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Physics/量子力学/syc/Week 1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Week 1"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -194,10 +192,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c793cd351726e55",
+  "active": "32609da81281b42e",
   "lastOpenFiles": [
-    "Physics/量子力学/syc/Week 2.pdf",
+    "未命名 1.base",
+    "Physics/Statistic physics/syc/tutorial/Tutorial 1.pdf",
     "Physics/量子力学/syc/Week 1.pdf",
+    "Physics/量子力学/syc/Week 2.pdf",
     "Physics/量子力学/syc/Assignment/2/Assignment_2.pdf",
     "Physics/量子力学/量子力学.md",
     "Physics/Statistic physics/syc/Lectures - Part I-II.pdf",
@@ -205,12 +205,10 @@
     "Main（record+navigation）.md",
     "Physics/量子力学/notebook/Bloch sphere.md",
     "Physics/量子力学/syc/Assignment/2/answer.pdf",
-    "Physics/Statistic physics/syc/tutorial/Tutorial 1.pdf",
     "Physics/Statistic physics/syc/Lectures - Part I.pdf",
     "Physics/Statistic physics/syc/Lectures - Part I-II.pdf.crdownload",
     "Physics/Statistic physics/syc/tutorial/Tutorial 1.pdf.crdownload",
     "Physics/Statistic physics/syc/tutorial",
-    "Physics/Statistic physics/syc/tutor",
     "Physics/电动力学/电动力学.md",
     "syc/屏幕截图 2025-03-09 120707.png",
     "Untitled.md",
