@@ -11,14 +11,12 @@
             "id": "6c793cd351726e55",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Physics/量子力学/notebook/Bloch sphere.md",
-                "mode": "source",
-                "source": false
+                "file": "Physics/Statistic physics/syc/Lectures - Part I-II.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Bloch sphere"
+              "icon": "lucide-file-text",
+              "title": "Lectures - Part I-II"
             }
           }
         ]
@@ -199,6 +197,7 @@
   "active": "6c793cd351726e55",
   "lastOpenFiles": [
     "Physics/量子力学/syc/Assignment/2/Assignment_2.pdf",
+    "Physics/量子力学/notebook/Bloch sphere.md",
     "Physics/量子力学/syc/Assignment/2/answer.pdf",
     "Physics/量子力学/syc/Week 2.pdf",
     "Physics/Statistic physics/syc/tutorial/Tutorial 1.pdf",
@@ -208,8 +207,6 @@
     "Physics/Statistic physics/syc/tutorial/Tutorial 1.pdf.crdownload",
     "Physics/Statistic physics/syc/tutorial",
     "Physics/Statistic physics/syc/tutor",
-    "Physics/Statistic physics/syc/Totor",
-    "Physics/量子力学/notebook/Bloch sphere.md",
     "Physics/电动力学/电动力学.md",
     "Main（record+navigation）.md",
     "syc/屏幕截图 2025-03-09 120707.png",
