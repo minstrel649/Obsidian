@@ -11,14 +11,12 @@
             "id": "6c793cd351726e55",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Physics/Statistic physics/Statistic physics.md",
-                "mode": "source",
-                "source": false
+                "file": "Physics/量子力学/syc/Assignment/2/Assignment_2.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Statistic physics"
+              "icon": "lucide-file-text",
+              "title": "Assignment_2"
             }
           }
         ]
@@ -78,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 586.5
+    "width": 586.5,
+    "collapsed": true
   },
   "right": {
     "id": "18452badd9d034f1",
@@ -198,11 +197,11 @@
   },
   "active": "6c793cd351726e55",
   "lastOpenFiles": [
-    "Main（record+navigation）.md",
-    "Physics/Statistic physics/Statistic physics.md",
-    "Physics/量子力学/syc/Assignment/2/Assignment_2.pdf",
     "Physics/量子力学/量子力学.md",
     "Physics/Statistic physics/syc/Lectures - Part I-II.pdf",
+    "Physics/Statistic physics/Statistic physics.md",
+    "Main（record+navigation）.md",
+    "Physics/量子力学/syc/Assignment/2/Assignment_2.pdf",
     "Physics/量子力学/notebook/Bloch sphere.md",
     "Physics/量子力学/syc/Assignment/2/answer.pdf",
     "Physics/量子力学/syc/Week 2.pdf",

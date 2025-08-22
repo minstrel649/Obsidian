@@ -21,4 +21,7 @@
 $$
 \bar{M}=N(p-q)\mu=N\bar{\mu}  
 $$
-$$\$$
+$$\overline{\Delta M}=N\overline{\Delta\mu} $$
+$$
+ M_
+ $$
