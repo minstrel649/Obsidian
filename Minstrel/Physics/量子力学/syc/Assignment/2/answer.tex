@@ -65,7 +65,21 @@ f_i = \left( \prod_{j<i} \sigma_j^z \right) \sigma_i^-
 \]
 
 then try to represent $\sigma_i^z$ and $\sigma_i^+$ in terms of $f_i$:
+we use the matrix representation of the Pauli operators:
 \[
-\sigma_i^z = \left( \prod_{j<i} f_j^\dagger \right) f_i^\dagger f_i \left( \prod_{j<i} f_j \right)
+\sigma_i^z = \begin{pmatrix}
+1 & 0 \\
+0 & -1
+\end{pmatrix}, \quad \sigma_i^+ = \begin{pmatrix}
+0 & 1 \\
+0 & 0
+\end{pmatrix}, \quad \sigma_i^- = \begin{pmatrix}
+0 & 0 \\
+1 & 0
+\end{pmatrix}
 \]
+$\sigma_i^z  $can be expressed as:$  2\sigma_i^+\sigma_i^- -I$
+
+
+
 \end{document}
