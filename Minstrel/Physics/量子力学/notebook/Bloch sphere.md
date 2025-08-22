@@ -68,7 +68,7 @@ $$
 
 ✅ 结论：  
 Bloch 球是描述单比特态的几何图像。  
-在本题中，Hamiltonian $$-\mu B Y$$ 对应于 Bloch 球上绕 $$y$$ 轴匀速旋转。  
+在本题中，Hamiltonian $-\mu B Y$对应于 Bloch 球上绕 $y$ 轴匀速旋转。  
 所以概率随时间是正弦、余弦变化，你算到的 $$\cos^2(\Omega\delta t)$$、$$\sin^2(\Omega\delta t)$$ 正是这个几何旋转的体现。
 
 ---
