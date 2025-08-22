@@ -78,7 +78,17 @@ we use the matrix representation of the Pauli operators:
 1 & 0
 \end{pmatrix}
 \]
-$\sigma_i^z  $can be expressed as:$  2\sigma_i^+\sigma_i^- -I$
+$\sigma_i^z  $can be expressed as:$  2\sigma_i^+\sigma_i^- -I = 2f_i^{\dagger} f_i-I$
+
+
+like wise:
+\[
+\sigma_i^+ = f_i^{\dagger} \left( \prod_{j<i} \sigma_j^z \right)^{-1}
+\]
+\[
+= f_i^{\dagger} \left( \prod_{j<i} (2f_j^{\dagger} f_j - I) \right)
+\]
+
 
 
 
