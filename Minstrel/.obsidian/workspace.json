@@ -11,12 +11,14 @@
             "id": "6c793cd351726e55",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Physics/量子力学/syc/Assignment/2/Assignment_2.pdf"
+                "file": "Physics/量子力学/notebook/Bloch sphere.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Assignment_2"
+              "icon": "lucide-file",
+              "title": "Bloch sphere"
             }
           }
         ]
@@ -196,8 +198,8 @@
   },
   "active": "6c793cd351726e55",
   "lastOpenFiles": [
-    "Physics/量子力学/syc/Assignment/2/answer.pdf",
     "Physics/量子力学/syc/Assignment/2/Assignment_2.pdf",
+    "Physics/量子力学/syc/Assignment/2/answer.pdf",
     "Physics/量子力学/syc/Week 2.pdf",
     "Physics/Statistic physics/syc/tutorial/Tutorial 1.pdf",
     "Physics/Statistic physics/syc/Lectures - Part I-II.pdf",
