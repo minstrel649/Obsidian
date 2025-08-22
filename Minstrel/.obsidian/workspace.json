@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9c285c8d0488c427",
+        "id": "56e184011a23ecd7",
         "type": "tabs",
         "children": [
           {
-            "id": "ed94af843540d74b",
+            "id": "cb77a0520a5faf16",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,28 +20,21 @@
               "icon": "lucide-file",
               "title": "Bloch sphere"
             }
-          }
-        ]
-      },
-      {
-        "id": "2f486e7d0cba33c4",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "14956b8af61ed9fa",
+            "id": "804c0e6bc4e7d27c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Physics/量子力学/notebook/Bloch sphere.md",
-                "mode": "source",
-                "source": false
+                "file": "Physics/量子力学/syc/Assignment/2/Assignment_2.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Bloch sphere"
+              "icon": "lucide-file-text",
+              "title": "Assignment_2"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,8 +209,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "14956b8af61ed9fa",
+  "active": "804c0e6bc4e7d27c",
   "lastOpenFiles": [
+    "Physics/量子力学/notebook/Bloch sphere.md",
     "Physics/量子力学/syc/Assignment/2/Assignment_2.pdf",
     "未命名 1.base",
     "Physics/Statistic physics/syc/tutorial/Tutorial 1.pdf",
@@ -227,12 +221,10 @@
     "Physics/Statistic physics/syc/Lectures - Part I-II.pdf",
     "Physics/Statistic physics/Statistic physics.md",
     "Main（record+navigation）.md",
-    "Physics/量子力学/notebook/Bloch sphere.md",
     "Physics/量子力学/syc/Assignment/2/answer.pdf",
     "Physics/Statistic physics/syc/Lectures - Part I.pdf",
     "Physics/Statistic physics/syc/Lectures - Part I-II.pdf.crdownload",
     "Physics/Statistic physics/syc/tutorial/Tutorial 1.pdf.crdownload",
-    "Physics/Statistic physics/syc/tutorial",
     "Physics/电动力学/电动力学.md",
     "syc/屏幕截图 2025-03-09 120707.png",
     "Untitled.md",
