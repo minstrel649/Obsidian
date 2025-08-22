@@ -53,9 +53,19 @@ $\braket{\psi_1|\psi_2}=v_1^\dagger v_2$成立,这是因为
 \textbf{(3)}
 
 \textbf{(4)}
-how should the Pauli operators $\sigma_i^+$ and $\sigma_i^z $can be written in terms of the  $f$ operators? 
+how should the Pauli operators $\sigma_i^+ $ and $\sigma_i^z $ can be written in terms of the  $f$ operators? 
 we have the definition that:\[
 f_i^\dagger = \left( \prod_{j<i} \sigma_j^z \right) \sigma_i^+
 \]
 
+so from $\braket{\overline{n_{1'}n_{2'}\cdot n_{i'}}|f_i^\dagger|\overline{n_1n_2n_3\cdot n_i}}$=$\braket{\overline{n_{1}n_{2}\cdot n_{i}}|f_i|\overline{n_{1'}n_{2'}\cdot n_{i'}}}^*$
+we can get the relation between $f_i$ and $\sigma_i^+$, $\sigma_i^z$ as follows:
+\[
+f_i = \left( \prod_{j<i} \sigma_j^z \right) \sigma_i^-
+\]
+
+then try to represent $\sigma_i^z$ and $\sigma_i^+$ in terms of $f_i$:
+\[
+\sigma_i^z = \left( \prod_{j<i} f_j^\dagger \right) f_i^\dagger f_i \left( \prod_{j<i} f_j \right)
+\]
 \end{document}
