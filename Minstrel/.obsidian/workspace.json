@@ -27,10 +27,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Physics/量子力学/syc/Assignment/2/Assignment_2.pdf"
+                "file": "Physics/量子力学/syc/Week 2.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Assignment_2"
+              "title": "Week 2"
             }
           }
         ],
@@ -212,8 +212,10 @@
   "active": "804c0e6bc4e7d27c",
   "lastOpenFiles": [
     "Physics/量子力学/syc/Assignment/2/answer.synctex(busy)",
-    "Physics/量子力学/syc/Week 2.pdf",
+    "Physics/量子力学/syc/Assignment/2/answer.out",
+    "Physics/量子力学/syc/Assignment/2/answer.aux",
     "Physics/量子力学/syc/Assignment/2/Assignment_2.pdf",
+    "Physics/量子力学/syc/Week 2.pdf",
     "Physics/量子力学/notebook/Bloch sphere.md",
     "未命名 1.base",
     "Physics/Statistic physics/syc/tutorial/Tutorial 1.pdf",
@@ -224,8 +226,6 @@
     "Main（record+navigation）.md",
     "Physics/量子力学/syc/Assignment/2/answer.pdf",
     "Physics/Statistic physics/syc/Lectures - Part I.pdf",
-    "Physics/Statistic physics/syc/Lectures - Part I-II.pdf.crdownload",
-    "Physics/Statistic physics/syc/tutorial/Tutorial 1.pdf.crdownload",
     "Physics/电动力学/电动力学.md",
     "syc/屏幕截图 2025-03-09 120707.png",
     "Untitled.md",
