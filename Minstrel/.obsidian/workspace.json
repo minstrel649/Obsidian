@@ -11,12 +11,14 @@
             "id": "6c793cd351726e55",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Physics/量子力学/syc/Assignment/2/Assignment_2.pdf"
+                "file": "Physics/Statistic physics/Statistic physics.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Assignment_2"
+              "icon": "lucide-file",
+              "title": "Statistic physics"
             }
           }
         ]
@@ -196,9 +198,11 @@
   },
   "active": "6c793cd351726e55",
   "lastOpenFiles": [
+    "Main（record+navigation）.md",
+    "Physics/Statistic physics/Statistic physics.md",
+    "Physics/量子力学/syc/Assignment/2/Assignment_2.pdf",
     "Physics/量子力学/量子力学.md",
     "Physics/Statistic physics/syc/Lectures - Part I-II.pdf",
-    "Physics/量子力学/syc/Assignment/2/Assignment_2.pdf",
     "Physics/量子力学/notebook/Bloch sphere.md",
     "Physics/量子力学/syc/Assignment/2/answer.pdf",
     "Physics/量子力学/syc/Week 2.pdf",
@@ -209,7 +213,6 @@
     "Physics/Statistic physics/syc/tutorial",
     "Physics/Statistic physics/syc/tutor",
     "Physics/电动力学/电动力学.md",
-    "Main（record+navigation）.md",
     "syc/屏幕截图 2025-03-09 120707.png",
     "Untitled.md",
     "2025-08-13.md",
@@ -231,7 +234,6 @@
     "Math/抽象代数/抽象代数.md",
     "Physics/量子力学/syc/Assignment/1/作业1.md",
     "Physics/量子力学/syc/未命名.canvas",
-    "Physics/Statistic physics/Statistic physics.md",
     "Physics/Statistic physics.md"
   ]
 }
