@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "64af15162b7f45db",
+        "id": "9c285c8d0488c427",
         "type": "tabs",
         "children": [
           {
-            "id": "32609da81281b42e",
+            "id": "ed94af843540d74b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "pdf",
+              "state": {
+                "file": "Physics/量子力学/syc/Assignment/2/Assignment_2.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Assignment_2"
             }
           }
         ]
@@ -192,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "32609da81281b42e",
+  "active": "ed94af843540d74b",
   "lastOpenFiles": [
     "未命名 1.base",
     "Physics/Statistic physics/syc/tutorial/Tutorial 1.pdf",
