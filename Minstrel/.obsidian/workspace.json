@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Physics/Statistic physics/syc/Lectures - Part I-II.pdf"
+                "file": "Physics/量子力学/syc/Assignment/2/Assignment_2.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Lectures - Part I-II"
+              "title": "Assignment_2"
             }
           }
         ]
@@ -196,12 +196,13 @@
   },
   "active": "6c793cd351726e55",
   "lastOpenFiles": [
+    "Physics/量子力学/量子力学.md",
+    "Physics/Statistic physics/syc/Lectures - Part I-II.pdf",
     "Physics/量子力学/syc/Assignment/2/Assignment_2.pdf",
     "Physics/量子力学/notebook/Bloch sphere.md",
     "Physics/量子力学/syc/Assignment/2/answer.pdf",
     "Physics/量子力学/syc/Week 2.pdf",
     "Physics/Statistic physics/syc/tutorial/Tutorial 1.pdf",
-    "Physics/Statistic physics/syc/Lectures - Part I-II.pdf",
     "Physics/Statistic physics/syc/Lectures - Part I.pdf",
     "Physics/Statistic physics/syc/Lectures - Part I-II.pdf.crdownload",
     "Physics/Statistic physics/syc/tutorial/Tutorial 1.pdf.crdownload",
@@ -229,7 +230,6 @@
     "Math/抽象代数/notebook/群的基本概念.md",
     "Math/抽象代数/抽象代数.md",
     "Physics/量子力学/syc/Assignment/1/作业1.md",
-    "Physics/量子力学/量子力学.md",
     "Physics/量子力学/syc/未命名.canvas",
     "Physics/Statistic physics/Statistic physics.md",
     "Physics/Statistic physics.md"
