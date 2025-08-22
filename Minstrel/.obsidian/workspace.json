@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Physics/量子力学/syc/Assignment/2/Assignment_2.pdf"
+                "file": "Physics/量子力学/syc/Week 2.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Assignment_2"
+              "title": "Week 2"
             }
           }
         ]
@@ -196,8 +196,8 @@
   },
   "active": "6c793cd351726e55",
   "lastOpenFiles": [
-    "Physics/量子力学/syc/Week 2.pdf",
     "Physics/量子力学/syc/Assignment/2/Assignment_2.pdf",
+    "Physics/量子力学/syc/Week 2.pdf",
     "Physics/量子力学/notebook/Bloch sphere.md",
     "Math/syc/数学/Mathematical Physics A Modern Introduction to Its Foundations (Sadri Hassani (auth.)) (Z-Library).pdf",
     "Math/syc/数学/LADR4eChinese.pdf",
