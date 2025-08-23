@@ -27,10 +27,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Physics/量子力学/syc/Week 2.pdf"
+                "file": "Math/syc/数学/实变函数与泛函分析基础 第4版 (程其襄, 张奠宙, 胡善文, 薛以锋) (Z-Library).pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Week 2"
+              "title": "实变函数与泛函分析基础 第4版 (程其襄, 张奠宙, 胡善文, 薛以锋) (Z-Library)"
             }
           }
         ],
@@ -211,21 +211,21 @@
   },
   "active": "804c0e6bc4e7d27c",
   "lastOpenFiles": [
+    "Math/实变函数/实变函数.md",
+    "Math/抽象代数/Algebra ([美]阿延（Artin,M.)著, (美)Michael Artin著, Tin Ar) (Z-Library).pdf",
+    "Physics/量子力学/syc/Week 2.pdf",
+    "Math/实变函数/习题",
+    "Math/实变函数/新建文件夹",
+    "Math/实变函数/notebook",
+    "Math/实变函数",
+    "Math/新建文件夹",
     "Physics/量子力学/syc/Assignment/2/answer.synctex(busy)",
     "Physics/量子力学/syc/Assignment/2/answer.out",
     "Physics/量子力学/syc/Assignment/2/answer.aux",
-    "Physics/量子力学/syc/Assignment/2/Assignment_2.pdf",
-    "Physics/量子力学/syc/Week 2.pdf",
     "Physics/量子力学/notebook/Bloch sphere.md",
-    "未命名 1.base",
-    "Physics/Statistic physics/syc/tutorial/Tutorial 1.pdf",
-    "Physics/量子力学/syc/Week 1.pdf",
     "Physics/量子力学/量子力学.md",
-    "Physics/Statistic physics/syc/Lectures - Part I-II.pdf",
     "Physics/Statistic physics/Statistic physics.md",
     "Main（record+navigation）.md",
-    "Physics/量子力学/syc/Assignment/2/answer.pdf",
-    "Physics/Statistic physics/syc/Lectures - Part I.pdf",
     "Physics/电动力学/电动力学.md",
     "syc/屏幕截图 2025-03-09 120707.png",
     "Untitled.md",
