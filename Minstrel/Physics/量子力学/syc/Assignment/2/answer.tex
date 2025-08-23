@@ -26,8 +26,19 @@
 
 \textbf{(2)}
 $\braket{\psi_1|\psi_2}=v_1^\dagger v_2$成立,这是因为
-$\braket{\psi_1|\psi_2}=(\sum_{i,j=0}^1c_{i,j}^*\bra{ij})(\sum{i,,j=0}^1c_{i,j}^*\ket{ij})=v_1^\dagger v_2$
+$\braket{\psi_1|\psi_2}=(\sum_{i,j=0}^1c_{i,j}^*\bra{ij})(\sum{i,,j=0}^1c_{i,j}\ket{ij})=v_1^\dagger v_2$
+
 \textbf{(3)}
+$O\ket{pq}=O_{ij,kl}\ket{ij}\bra{kl}\ket{pq}=O_{ij,kl}\ket{ij}\delta_{kp}\delta_{lq}=O_{ij,pq}\ket{ij}$ 
+if we define $\ket{00}$ as $e_1$, $\ket{01}$ as $e_2$, $\ket{10}$ as $e_3$, $\ket{11}$ as $e_4$, then we can get the matrix representation of $O$:
+$Oe_i=\sum_{j=1}^4O_{ji}e_j$
+因此O的矩阵表示为:
+\[O=\begin{pmatrix}
+O_{11} & O_{12} & O_{13} & O_{14} \\
+O_{21} & O_{22} & O_{23} & O_{24} \\
+O_{31} & O_{32} & O_{33} & O_{34} \\
+O_{41} & O_{42} & O_{43} & O_{44}    
+\end{pmatrix}\]
 
 \textbf{(4)}
 \begin{center}
