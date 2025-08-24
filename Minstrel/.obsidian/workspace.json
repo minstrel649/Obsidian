@@ -37,10 +37,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Physics/量子力学/syc/Introduction to Quantum Mechanics (David J. Griffiths, Darrell F. Schroeter) (Z-Library).pdf"
+                "file": "Physics/量子力学/syc/Week 2.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Introduction to Quantum Mechanics (David J. Griffiths, Darrell F. Schroeter) (Z-Library)"
+              "title": "Week 2"
             }
           }
         ],
@@ -101,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 586.5,
-    "collapsed": true
+    "width": 586.5
   },
   "right": {
     "id": "18452badd9d034f1",
@@ -223,8 +222,8 @@
   },
   "active": "ee3993e639208efd",
   "lastOpenFiles": [
-    "Physics/量子力学/syc/Instructors’ Solution Manual to Introduction to Quantum Mechanics-David Griffiths, Darrell Schroeter.pdf",
     "Physics/量子力学/syc/Introduction to Quantum Mechanics (David J. Griffiths, Darrell F. Schroeter) (Z-Library).pdf",
+    "Physics/量子力学/syc/Instructors’ Solution Manual to Introduction to Quantum Mechanics-David Griffiths, Darrell Schroeter.pdf",
     "Physics/量子力学/notebook/chapter 1 notebook.md",
     "Physics/电动力学/第一节课公式整理.md",
     "Physics/电动力学/syc/Introduction to Electrodynamics, Fourth Edition (David J. Griffiths) (Z-Library).pdf",
