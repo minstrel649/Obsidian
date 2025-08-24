@@ -4,22 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "468430f61a8945d9",
+        "id": "ae4c73c37b8fb4c9",
         "type": "tabs",
         "children": [
           {
-            "id": "02f1244cf227b5fa",
+            "id": "e2c02c7b59c8f2cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/电动力学/第一节课公式整理.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第一节课公式整理"
+            }
+          },
+          {
+            "id": "d1f787e624540ce4",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Physics/量子力学/syc/Instructors’ Solution Manual to Introduction to Quantum Mechanics-David Griffiths, Darrell Schroeter.pdf"
+                "file": "Physics/电动力学/syc/Introduction to Electrodynamics, Fourth Edition (David J. Griffiths) (Z-Library).pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Instructors’ Solution Manual to Introduction to Quantum Mechanics-David Griffiths, Darrell Schroeter"
+              "title": "Introduction to Electrodynamics, Fourth Edition (David J. Griffiths) (Z-Library)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,8 +210,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "02f1244cf227b5fa",
+  "active": "d1f787e624540ce4",
   "lastOpenFiles": [
+    "Physics/电动力学/电动力学.md",
+    "Physics/电动力学/syc/Introduction to Electrodynamics, Fourth Edition (David J. Griffiths) (Z-Library).pdf",
+    "Physics/电动力学/第一节课公式整理.md",
+    "Physics/电动力学/syc/Syllabus.pdf",
+    "Physics/电动力学/syc/Introduction to Electrodynamics, Fourth Edition (David J. Griffiths) (Z-Library).pdf.crdownload",
+    "Physics/电动力学/syc/Instructors Solutions Manual for Introduction to Electrodynamics, 4th edition (2013) (David J. Griffiths) (Z-Library).pdf",
     "Physics/量子力学/syc/Introduction to Quantum Mechanics (David J. Griffiths, Darrell F. Schroeter) (Z-Library).pdf",
     "Physics/量子力学/syc/Instructors’ Solution Manual to Introduction to Quantum Mechanics-David Griffiths, Darrell Schroeter.pdf",
     "Physics/量子力学/syc/Week 1.pdf",
@@ -205,15 +226,9 @@
     "Physics/量子力学/notebook/Bloch sphere.md",
     "Math/syc/数学/实变函数与泛函分析基础 第4版 (程其襄, 张奠宙, 胡善文, 薛以锋) (Z-Library).pdf",
     "Math/实变函数/实变函数.md",
-    "Math/抽象代数/Algebra ([美]阿延（Artin,M.)著, (美)Michael Artin著, Tin Ar) (Z-Library).pdf",
-    "Physics/量子力学/syc/Week 2.pdf",
-    "Math/实变函数/习题",
-    "Math/实变函数/新建文件夹",
-    "Math/实变函数/notebook",
     "Physics/量子力学/量子力学.md",
     "Physics/Statistic physics/Statistic physics.md",
     "Main（record+navigation）.md",
-    "Physics/电动力学/电动力学.md",
     "syc/屏幕截图 2025-03-09 120707.png",
     "Untitled.md",
     "2025-08-13.md",
@@ -225,7 +240,6 @@
     "幻灯片功能演示.md",
     "未命名.canvas",
     "Daily Writing.md",
-    "未命名.md",
     "未命名 1.md",
     "test.md",
     "Math/抽象代数/notebook/环的基本概念.md",
