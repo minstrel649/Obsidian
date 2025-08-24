@@ -37,10 +37,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Physics/量子力学/syc/Week 2.pdf"
+                "file": "Physics/电动力学/syc/补充资料/Conservation Of Momentum.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Week 2"
+              "title": "Conservation Of Momentum"
             }
           }
         ],
@@ -203,8 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,20 +221,20 @@
   },
   "active": "ee3993e639208efd",
   "lastOpenFiles": [
-    "Physics/量子力学/syc/Introduction to Quantum Mechanics (David J. Griffiths, Darrell F. Schroeter) (Z-Library).pdf",
-    "Physics/量子力学/syc/Instructors’ Solution Manual to Introduction to Quantum Mechanics-David Griffiths, Darrell Schroeter.pdf",
     "Physics/量子力学/notebook/chapter 1 notebook.md",
     "Physics/电动力学/第一节课公式整理.md",
     "Physics/电动力学/syc/Introduction to Electrodynamics, Fourth Edition (David J. Griffiths) (Z-Library).pdf",
+    "Physics/电动力学/syc/课件/Syllabus.pdf",
+    "Physics/电动力学/syc/课件/Formula.pdf",
+    "Physics/电动力学/syc/补充资料/Conservation Of Momentum.pdf",
+    "Physics/电动力学/syc/课件",
+    "Physics/电动力学/syc/补充资料",
+    "Physics/量子力学/syc/Week 2.pdf",
+    "Physics/电动力学/syc/Conservation Of Momentum.pdf.crdownload",
+    "Physics/量子力学/syc/Introduction to Quantum Mechanics (David J. Griffiths, Darrell F. Schroeter) (Z-Library).pdf",
+    "Physics/量子力学/syc/Instructors’ Solution Manual to Introduction to Quantum Mechanics-David Griffiths, Darrell Schroeter.pdf",
     "Physics/电动力学/电动力学.md",
-    "Physics/电动力学/syc/Syllabus.pdf",
-    "Physics/电动力学/syc/Introduction to Electrodynamics, Fourth Edition (David J. Griffiths) (Z-Library).pdf.crdownload",
-    "Physics/电动力学/syc/Instructors Solutions Manual for Introduction to Electrodynamics, 4th edition (2013) (David J. Griffiths) (Z-Library).pdf",
-    "Physics/量子力学/syc/Week 1.pdf",
-    "Physics/量子力学/syc/Instructors’ Solution Manual to Introduction to Quantum Mechanics-David Griffiths, Darrell Schroeter.pdf.crdownload",
-    "Physics/量子力学/syc/The Principles of Quantum Mechanics (Paul A. M. Dirac) (Z-Library).pdf",
     "Physics/量子力学/notebook/Bloch sphere.md",
-    "Math/syc/数学/实变函数与泛函分析基础 第4版 (程其襄, 张奠宙, 胡善文, 薛以锋) (Z-Library).pdf",
     "Math/实变函数/实变函数.md",
     "Physics/量子力学/量子力学.md",
     "Physics/Statistic physics/Statistic physics.md",
