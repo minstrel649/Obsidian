@@ -27,10 +27,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Physics/电动力学/syc/Introduction to Electrodynamics, Fourth Edition (David J. Griffiths) (Z-Library).pdf"
+                "file": "Physics/量子力学/syc/Instructors’ Solution Manual to Introduction to Quantum Mechanics-David Griffiths, Darrell Schroeter.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Introduction to Electrodynamics, Fourth Edition (David J. Griffiths) (Z-Library)"
+              "title": "Instructors’ Solution Manual to Introduction to Quantum Mechanics-David Griffiths, Darrell Schroeter"
             }
           }
         ],
@@ -91,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 586.5,
-    "collapsed": true
+    "width": 586.5
   },
   "right": {
     "id": "18452badd9d034f1",
@@ -212,13 +211,13 @@
   },
   "active": "d1f787e624540ce4",
   "lastOpenFiles": [
-    "Physics/电动力学/电动力学.md",
+    "Physics/量子力学/syc/Introduction to Quantum Mechanics (David J. Griffiths, Darrell F. Schroeter) (Z-Library).pdf",
     "Physics/电动力学/syc/Introduction to Electrodynamics, Fourth Edition (David J. Griffiths) (Z-Library).pdf",
+    "Physics/电动力学/电动力学.md",
     "Physics/电动力学/第一节课公式整理.md",
     "Physics/电动力学/syc/Syllabus.pdf",
     "Physics/电动力学/syc/Introduction to Electrodynamics, Fourth Edition (David J. Griffiths) (Z-Library).pdf.crdownload",
     "Physics/电动力学/syc/Instructors Solutions Manual for Introduction to Electrodynamics, 4th edition (2013) (David J. Griffiths) (Z-Library).pdf",
-    "Physics/量子力学/syc/Introduction to Quantum Mechanics (David J. Griffiths, Darrell F. Schroeter) (Z-Library).pdf",
     "Physics/量子力学/syc/Instructors’ Solution Manual to Introduction to Quantum Mechanics-David Griffiths, Darrell Schroeter.pdf",
     "Physics/量子力学/syc/Week 1.pdf",
     "Physics/量子力学/syc/Instructors’ Solution Manual to Introduction to Quantum Mechanics-David Griffiths, Darrell Schroeter.pdf.crdownload",
