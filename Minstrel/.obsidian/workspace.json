@@ -32,6 +32,18 @@
               "icon": "lucide-file-text",
               "title": "Instructors’ Solution Manual to Introduction to Quantum Mechanics-David Griffiths, Darrell Schroeter"
             }
+          },
+          {
+            "id": "ee3993e639208efd",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Physics/量子力学/syc/Introduction to Quantum Mechanics (David J. Griffiths, Darrell F. Schroeter) (Z-Library).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Introduction to Quantum Mechanics (David J. Griffiths, Darrell F. Schroeter) (Z-Library)"
+            }
           }
         ]
       }
@@ -205,7 +217,8 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
   "active": "e2c02c7b59c8f2cf",
