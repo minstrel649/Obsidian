@@ -101,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 586.5
+    "width": 586.5,
+    "collapsed": true
   },
   "right": {
     "id": "18452badd9d034f1",
@@ -219,7 +220,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ee3993e639208efd",
+  "active": "7a7328e73d615d93",
   "lastOpenFiles": [
     "Physics/量子力学/notebook/chapter 1 notebook.md",
     "Physics/电动力学/第一节课公式整理.md",
