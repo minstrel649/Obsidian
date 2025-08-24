@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Bloch sphere"
             }
-          },
-          {
-            "id": "804c0e6bc4e7d27c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Math/syc/数学/实变函数与泛函分析基础 第4版 (程其襄, 张奠宙, 胡善文, 薛以锋) (Z-Library).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "实变函数与泛函分析基础 第4版 (程其襄, 张奠宙, 胡善文, 薛以锋) (Z-Library)"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,8 +197,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "804c0e6bc4e7d27c",
+  "active": "cb77a0520a5faf16",
   "lastOpenFiles": [
+    "Math/syc/数学/实变函数与泛函分析基础 第4版 (程其襄, 张奠宙, 胡善文, 薛以锋) (Z-Library).pdf",
     "Math/实变函数/实变函数.md",
     "Math/抽象代数/Algebra ([美]阿延（Artin,M.)著, (美)Michael Artin著, Tin Ar) (Z-Library).pdf",
     "Physics/量子力学/syc/Week 2.pdf",
