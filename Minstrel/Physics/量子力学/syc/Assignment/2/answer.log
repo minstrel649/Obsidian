@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.26)  25 AUG 2025 19:50
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.26)  25 AUG 2025 19:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -546,54 +546,7 @@ Package amsmath Warning: Bracket group [b_i, b_j^\dagger ] at formula start!
 (amsmath)                If it belongs to the formula add a \relax in
 (amsmath)                front to hide it on input line 81.
 
-d:/myworkspace/obsidian/MainFile/Minstrel/Physics/量子力学/syc/Assignment/2/answer.tex:90: Missing $ inserted.
-<inserted text> 
-                $
-l.90 if i \neq
-               j, we have:
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-d:/myworkspace/obsidian/MainFile/Minstrel/Physics/量子力学/syc/Assignment/2/answer.tex:91: Missing $ inserted.
-<inserted text> 
-                $
-l.91 \begin{center}
-                   
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-d:/myworkspace/obsidian/MainFile/Minstrel/Physics/量子力学/syc/Assignment/2/answer.tex:91: Missing \endgroup inserted.
-<inserted text> 
-                \endgroup 
-l.91 \begin{center}
-                   
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-
-d:/myworkspace/obsidian/MainFile/Minstrel/Physics/量子力学/syc/Assignment/2/answer.tex:93: LaTeX Error: \begin{document} ended by \end{center}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.93 \end{center}
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-d:/myworkspace/obsidian/MainFile/Minstrel/Physics/量子力学/syc/Assignment/2/answer.tex:93: Extra \endgroup.
-<recently read> \endgroup 
-                          
-l.93 \end{center}
-                 
-Things are pretty mixed up, but I think the worst is over.
-
-[2] [3] (./answer.aux)
+[2] [3] [4] (./answer.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2022/07/14>
@@ -608,6 +561,6 @@ Here is how much of TeX's memory you used:
  37460 multiletter control sequences out of 15000+600000
  567459 words of font info for 86 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 93i,10n,97p,443b,351s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 93i,10n,97p,443b,339s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on answer.pdf (3 pages).
+Output written on answer.pdf (4 pages).

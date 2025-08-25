@@ -87,7 +87,65 @@ We have:
 
 
 \textbf{(4)}
-if i \neq j, we have:
+if $i = j$, we have:
+
+\[[b_i, b_i^\dagger] \ket{\overline{n_1 n_2 \cdots n_k}} = (n_i + 1 - n_i) \ket{\overline{n_1 n_2 \cdots n_k}} = \ket{\overline{n_1 n_2 \cdots n_k}}\]
+
+\textbf{(5)}
+\[
+\{f_i, f_j\} = f_i f_j + f_j f_i
+\]
+When $i = j$, this becomes
+\[
+\{f_i, f_i\} = f_i f_i + f_i f_i = 2 f_i^2
+\]
+Since $f_i$ is a fermionic annihilation operator, it satisfies $f_i^2 = 0$. Therefore,
+\[
+\{f_i, f_i\} = 2 \times 0 = 0
+\]
+So, when $i = j$, the anticommutation relation $\{f_i, f_j\} = 0$ holds.
+
+\textbf{(6)}
+
+Suppose $i \neq j$. Calculate $\{f_i, f_j\} \ket{n_1 n_2 \cdots}$. 
+
+Recall the definition:
+\[
+\{f_i, f_j\} = f_i f_j + f_j f_i
+\]
+We need to consider the action of $f_i$ and $f_j$ on the occupation number basis $\ket{n_1 n_2 \cdots}$, where $n_k = 0$ or $1$ for fermions.
+
+Consider the following cases:
+
+\textbf{Case 1: $n_i = 0$ or $n_j = 0$}
+
+- If $n_i = 0$, then $f_i \ket{n_1 n_2 \cdots} = 0$.
+- If $n_j = 0$, then $f_j \ket{n_1 n_2 \cdots} = 0$.
+
+Therefore, in either case, both $f_i f_j \ket{n_1 n_2 \cdots} = 0$ and $f_j f_i \ket{n_1 n_2 \cdots} = 0$, so
+\[
+\{f_i, f_j\} \ket{n_1 n_2 \cdots} = 0
+\]
+
+\textbf{Case 2: $n_i = 1$ and $n_j = 1$}
+
+- $f_j \ket{n_1 n_2 \cdots n_j = 1 \cdots n_i = 1 \cdots} = (-1)^{s_1} \ket{n_1 \cdots n_j = 0 \cdots n_i = 1 \cdots}$
+- Then $f_i$ acts on this state: $f_i \ket{n_1 \cdots n_j = 0 \cdots n_i = 1 \cdots} = (-1)^{s_2} \ket{n_1 \cdots n_j = 0 \cdots n_i = 0 \cdots}$
+
+Similarly, $f_i f_j \ket{n_1 n_2 \cdots}$ and $f_j f_i \ket{n_1 n_2 \cdots}$ will differ by a sign, but since $i \neq j$, the sum $f_i f_j + f_j f_i$ will always cancel out due to the anticommutation property of fermionic operators.
+
+Therefore,
+\[
+\{f_i, f_j\} \ket{n_1 n_2 \cdots} = 0
+\]
+
+\textbf{Conclusion:}
+
+For $i \neq j$, in all possible cases,
+\[
+\{f_i, f_j\} \ket{n_1 n_2 \cdots} = 0
+\]
+This confirms the anticommutation relation for
 \begin{center}
     \textbf{Problem 3 Solution}
 \end{center}
