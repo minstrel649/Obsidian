@@ -4,66 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ae4c73c37b8fb4c9",
+        "id": "46e3bc54ed110f38",
         "type": "tabs",
         "children": [
           {
-            "id": "e2c02c7b59c8f2cf",
+            "id": "5ffc79f2078c4fca",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Physics/量子力学/syc/Introduction to Quantum Mechanics (David J. Griffiths, Darrell F. Schroeter) (Z-Library).pdf"
+                "file": "Physics/Statistic physics/syc/Statistical Physics Berkeley Physics Course, Vol. 5 (F. Reif) (Z-Library).pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Introduction to Quantum Mechanics (David J. Griffiths, Darrell F. Schroeter) (Z-Library)"
-            }
-          },
-          {
-            "id": "d1f787e624540ce4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Physics/量子力学/syc/Instructors’ Solution Manual to Introduction to Quantum Mechanics-David Griffiths, Darrell Schroeter.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Instructors’ Solution Manual to Introduction to Quantum Mechanics-David Griffiths, Darrell Schroeter"
-            }
-          },
-          {
-            "id": "ee3993e639208efd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/Statistic physics/Statistic physics.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Statistic physics"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "47ab296013b624b8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cfcf3572c2d13fdd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/Statistic physics/Statistic physics.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Statistic physics"
+              "title": "Statistical Physics Berkeley Physics Course, Vol. 5 (F. Reif) (Z-Library)"
             }
           }
         ]
@@ -242,8 +195,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "cfcf3572c2d13fdd",
+  "active": "5ffc79f2078c4fca",
   "lastOpenFiles": [
+    "Physics/量子力学/syc/Introduction to Quantum Mechanics (David J. Griffiths, Darrell F. Schroeter) (Z-Library).pdf",
+    "Physics/量子力学/syc/Instructors’ Solution Manual to Introduction to Quantum Mechanics-David Griffiths, Darrell Schroeter.pdf",
+    "未命名 3.base",
+    "未命名 2.base",
+    "Physics/Statistic physics/Statistic physics.md",
     "Physics/Statistic physics/syc/Lectures - Part I-II.pdf",
     "Physics/电动力学/syc/补充资料/Conservation Of Momentum.pdf",
     "Physics/量子力学/syc/Assignment/2/answer.synctex(busy)",
@@ -253,15 +211,10 @@
     "Physics/电动力学/第一节课公式整理.md",
     "Physics/电动力学/syc/Introduction to Electrodynamics, Fourth Edition (David J. Griffiths) (Z-Library).pdf",
     "Physics/电动力学/syc/课件/Syllabus.pdf",
-    "Physics/电动力学/syc/课件/Formula.pdf",
-    "Physics/电动力学/syc/课件",
-    "Physics/电动力学/syc/补充资料",
-    "Physics/量子力学/syc/Week 2.pdf",
     "Physics/电动力学/电动力学.md",
     "Physics/量子力学/notebook/Bloch sphere.md",
     "Math/实变函数/实变函数.md",
     "Physics/量子力学/量子力学.md",
-    "Physics/Statistic physics/Statistic physics.md",
     "Main（record+navigation）.md",
     "syc/屏幕截图 2025-03-09 120707.png",
     "Untitled.md",
