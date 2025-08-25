@@ -45,16 +45,31 @@ $O\ket{\psi_1}$ is the same as $Mv_1$,because:
 \[
 O\ket{\psi_1}=O_{ij,kl}\ket{ij}\bra{kl}\cdot c_{mn}\ket{mn}=O_{ij,kl}\ket{ij}c_{mn}\delta_{km}\delta_{ln}=O_{ij,mn}c_{mn}\ket{ij}
 \]
-
+this is equivalent to $Mv_1$ if we define $\ket{00}$ as $e_1$, $\ket{01}$ as $e_2$, $\ket{10}$ as $e_3$, $\ket{11}$ as $e_4$.:
 \begin{center}
     \textbf{Problem 2 Solution}
 \end{center}
 
 \textbf{(1)}
 Starting from $[b_i^\dagger,b_i^\dagger]=0$,show that $[b_i,b_j]=0$.
- 
+According to the definition of commutation relation, we have:
+\[[b_i^\dagger,b_j^\dagger]=b_i^\dagger b_j^\dagger - b_j^\dagger b_i^\dagger=0\]
+Taking the Hermitian conjugate of both sides, we get:
+\[(b_i^\dagger b_j^\dagger - b_j^\dagger b_i^\dagger)^\dagger = 0^\dagger\]
+
+\[b_j b_i - b_i b_j = 0\]
+so we have:$[b_i,b_j]=0$
+
+
 \textbf{(2)}
 
+\[
+\braket{\overline{n_1' n_2' \cdots n_k'}|b_i^\dagger|\overline{n_1 n_2 \cdots n_k}} = \braket{\overline{n_1 n_2 \cdots n_k}|b_i|\overline{n_1' n_2' \cdots n_k'}}^*
+\]
+and \[b_i^\dagger \ket{\overline{n_1 n_2 \cdots n_k}} = \sqrt{n_i + 1} \ket{\overline{n_1 n_2 \cdots (n_i + 1) \cdots n_k}}\]
+we can get the relation between $b_i$ and $b_i^\dagger$ as follows:
+\[
+b_i \ket{\overline{n_1 n_2 \cdots n_k}} = \sqrt{n_i} \ket{\overline{n_1 n_2 \cdots (n_i - 1) \cdots n_k}} 
 \textbf{(3)}
 
 \textbf{(4)}
