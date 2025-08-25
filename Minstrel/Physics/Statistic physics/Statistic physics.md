@@ -21,7 +21,7 @@
 $$
 \bar{M}=N(p-q)\mu=N\bar{\mu}  
 $$
-$$\overline{\Delta M}=N\overline{\Delta\mu} $$
+$$\overline{(\Delta M)^2}=N\overline{(\Delta\mu)^2} $$
 $$
- M_
+ \underline{\Delta M}=\sqrt{N}\underline{\Delta \mu}
  $$

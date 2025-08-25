@@ -35,16 +35,38 @@
             "id": "ee3993e639208efd",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Physics/电动力学/syc/补充资料/Conservation Of Momentum.pdf"
+                "file": "Physics/Statistic physics/Statistic physics.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-file-text",
-              "title": "Conservation Of Momentum"
+              "icon": "lucide-file",
+              "title": "Statistic physics"
             }
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "47ab296013b624b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfcf3572c2d13fdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Statistic physics/Statistic physics.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Statistic physics"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,8 +242,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "7a7328e73d615d93",
+  "active": "cfcf3572c2d13fdd",
   "lastOpenFiles": [
+    "Physics/Statistic physics/syc/Lectures - Part I-II.pdf",
+    "Physics/电动力学/syc/补充资料/Conservation Of Momentum.pdf",
     "Physics/量子力学/syc/Assignment/2/answer.synctex(busy)",
     "Physics/量子力学/syc/Assignment/2/answer.out",
     "Physics/量子力学/syc/Assignment/2/answer.aux",
@@ -230,11 +254,9 @@
     "Physics/电动力学/syc/Introduction to Electrodynamics, Fourth Edition (David J. Griffiths) (Z-Library).pdf",
     "Physics/电动力学/syc/课件/Syllabus.pdf",
     "Physics/电动力学/syc/课件/Formula.pdf",
-    "Physics/电动力学/syc/补充资料/Conservation Of Momentum.pdf",
     "Physics/电动力学/syc/课件",
     "Physics/电动力学/syc/补充资料",
     "Physics/量子力学/syc/Week 2.pdf",
-    "Physics/电动力学/syc/Conservation Of Momentum.pdf.crdownload",
     "Physics/电动力学/电动力学.md",
     "Physics/量子力学/notebook/Bloch sphere.md",
     "Math/实变函数/实变函数.md",
