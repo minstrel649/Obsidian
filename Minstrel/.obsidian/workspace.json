@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Physics/Statistic physics/syc/Statistical Physics Berkeley Physics Course, Vol. 5 (F. Reif) (Z-Library).pdf"
+                "file": "Physics/Statistic physics/syc/Lectures - Part I-II.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Statistical Physics Berkeley Physics Course, Vol. 5 (F. Reif) (Z-Library)"
+              "title": "Lectures - Part I-II"
             }
           }
         ]
@@ -197,6 +197,8 @@
   },
   "active": "5ffc79f2078c4fca",
   "lastOpenFiles": [
+    "Physics/Statistic physics/syc/Lectures - Part I.pdf",
+    "Physics/Statistic physics/syc/Statistical Physics Berkeley Physics Course, Vol. 5 (F. Reif) (Z-Library).pdf",
     "Physics/量子力学/syc/Introduction to Quantum Mechanics (David J. Griffiths, Darrell F. Schroeter) (Z-Library).pdf",
     "Physics/量子力学/syc/Instructors’ Solution Manual to Introduction to Quantum Mechanics-David Griffiths, Darrell Schroeter.pdf",
     "未命名 3.base",
@@ -209,8 +211,6 @@
     "Physics/量子力学/syc/Assignment/2/answer.aux",
     "Physics/量子力学/notebook/chapter 1 notebook.md",
     "Physics/电动力学/第一节课公式整理.md",
-    "Physics/电动力学/syc/Introduction to Electrodynamics, Fourth Edition (David J. Griffiths) (Z-Library).pdf",
-    "Physics/电动力学/syc/课件/Syllabus.pdf",
     "Physics/电动力学/电动力学.md",
     "Physics/量子力学/notebook/Bloch sphere.md",
     "Math/实变函数/实变函数.md",
