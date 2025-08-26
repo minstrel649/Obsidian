@@ -13,26 +13,13 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Physics/量子力学/syc/Assignment/2/Assignment_2.pdf"
+                "file": "Physics/量子力学/syc/978-3-030-13724-3.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Assignment_2"
-            }
-          },
-          {
-            "id": "669466b277cba706",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.9.12"
+              "title": "978-3-030-13724-3"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Physics/量子力学/syc/978-3-030-13724-3.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "978-3-030-13724-3 的反向链接列表"
             }
           },
           {
@@ -206,8 +194,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "669466b277cba706",
+  "active": "577f008fa0843129",
   "lastOpenFiles": [
+    "Physics/量子力学/syc/Assignment/2/Assignment_2.pdf",
     "Physics/量子力学/syc/Assignment/2/answer.synctex(busy)",
     "Physics/量子力学/syc/Assignment/2/answer.out",
     "Physics/量子力学/syc/Assignment/2/answer.aux",
@@ -221,7 +210,6 @@
     "Math/点集拓扑/点集拓扑.md",
     "Math/点集拓扑",
     "Math/实变函数/实变函数.md",
-    "Physics/量子力学/syc/Week 1.pdf",
     "Question List.md",
     "Main（record+navigation）.md",
     "Physics/Statistic physics/Statistic physics.md",
