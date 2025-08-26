@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8f72dcf586189d35",
+        "id": "1c2c980eeaa8622d",
         "type": "tabs",
         "children": [
           {
-            "id": "48c4e296ef7fc5bf",
+            "id": "577f008fa0843129",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Math/syc/数学/LADR4eChinese.pdf"
+                "file": "Physics/量子力学/syc/Week 3.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "LADR4eChinese"
+              "title": "Week 3"
             }
           }
         ]
@@ -76,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 586.5
+    "width": 586.5,
+    "collapsed": true
   },
   "right": {
     "id": "18452badd9d034f1",
@@ -92,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/syc/数学/LADR4eChinese.pdf",
+                "file": "Physics/量子力学/syc/Week 3.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "LADR4eChinese 的反向链接列表"
+              "title": "Week 3 的反向链接列表"
             }
           },
           {
@@ -193,11 +194,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "48c4e296ef7fc5bf",
+  "active": "577f008fa0843129",
   "lastOpenFiles": [
+    "Math/syc/数学/LADR4eChinese.pdf",
     "Physics/量子力学/syc/Introduction to Quantum Mechanics (David J. Griffiths, Darrell F. Schroeter) (Z-Library).pdf",
     "Physics/电动力学/syc/Introduction to Electrodynamics, Fourth Edition (David J. Griffiths) (Z-Library).pdf",
-    "Math/syc/数学/LADR4eChinese.pdf",
     "Math/syc/数学/点集拓扑 (徐森林, 胡自胜, 金亚东, 薛春华) (Z-Library).pdf",
     "Math/实变函数/notebook/直线上的点集.md",
     "Math/抽象代数/Algebra ([美]阿延（Artin,M.)著, (美)Michael Artin著, Tin Ar) (Z-Library).pdf",
