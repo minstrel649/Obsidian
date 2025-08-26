@@ -173,14 +173,19 @@ when $ n_i=0$ or $n_j=0$, we have:
 
 \textbf{(1)}
 We define $b_I^\dagger$ in 
-
-\begin{aligned}
 \[
-    &b_i^\dagger\ket{n_1,n_2,\cdots,n_k}=\ket{n_1,n_2,\cdots,n_i+1,\cdots,n_L}=\ket{n_1,n_2,\cdots,1,n_{i+1},\cdots,n_L}\text{if }n_i=0\\
-    &b_i^\dagger\ket{n_1,n_2,\cdots,n_k}=0\text{if }n_i=1\\
-\]
+\begin{aligned}
+&b_i^\dagger\ket{n_1,n_2,\cdots,n_k}=\ket{n_1,n_2,\cdots,n_i+1,\cdots,n_L}=\ket{n_1,n_2,\cdots,1,n_{i+1},\cdots,n_L}\text{if }n_i=0 \\
+&b_i^\dagger\ket{n_1,n_2,\cdots,n_k}=0\text{  if }n_i=1 \\
 \end{aligned}
-
+\]
+\[
+\begin{aligned}
+b&_i\ket{n_1,n_2,\cdots,n_k}=\ket{n_1,n_2,\cdots,n_i-1,\cdots,n_L}=\ket{n_1,n_2,\cdots,0,n_{i+1},\cdots,n_L}\text{if }n_i=1 \\
+&b_i\ket{n_1,n_2,\cdots,n_k}=0\text{  if }n_i=0 \\   
+\end{aligned}
+\]
+$[b_i,b_j]=0 for any i,j \text{because}(b_ib_j-b_jb_i)$
 \textbf{(2)}
 
 \textbf{(3)}
