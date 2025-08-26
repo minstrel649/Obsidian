@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Physics/Statistic physics/syc/Lectures - Part I-II.pdf"
+                "file": "Physics/量子力学/syc/Week 3.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Lectures - Part I-II"
+              "title": "Week 3"
             }
           }
         ]
@@ -76,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 586.5
+    "width": 586.5,
+    "collapsed": true
   },
   "right": {
     "id": "18452badd9d034f1",
@@ -196,18 +197,18 @@
   },
   "active": "5ffc79f2078c4fca",
   "lastOpenFiles": [
+    "Physics/量子力学/syc/Introduction to Quantum Mechanics (David J. Griffiths, Darrell F. Schroeter) (Z-Library).pdf",
+    "Physics/量子力学/syc/Week 3.pdf",
+    "Physics/量子力学/syc/Week 3.pdf.crdownload",
+    "Physics/Statistic physics/syc/Lectures - Part I-II.pdf",
     "Physics/量子力学/syc/Assignment/2/answer.synctex(busy)",
     "Physics/量子力学/syc/Assignment/2/answer.out",
     "Physics/量子力学/syc/Assignment/2/answer.aux",
     "Physics/Statistic physics/syc/Lectures - Part I.pdf",
     "Physics/Statistic physics/syc/Statistical Physics Berkeley Physics Course, Vol. 5 (F. Reif) (Z-Library).pdf",
-    "Physics/量子力学/syc/Introduction to Quantum Mechanics (David J. Griffiths, Darrell F. Schroeter) (Z-Library).pdf",
     "Physics/量子力学/syc/Instructors’ Solution Manual to Introduction to Quantum Mechanics-David Griffiths, Darrell Schroeter.pdf",
     "未命名 3.base",
-    "未命名 2.base",
     "Physics/Statistic physics/Statistic physics.md",
-    "Physics/Statistic physics/syc/Lectures - Part I-II.pdf",
-    "Physics/电动力学/syc/补充资料/Conservation Of Momentum.pdf",
     "Physics/量子力学/notebook/chapter 1 notebook.md",
     "Physics/电动力学/第一节课公式整理.md",
     "Physics/电动力学/电动力学.md",
