@@ -18,8 +18,21 @@
               "icon": "lucide-file-text",
               "title": "Assignment_2"
             }
+          },
+          {
+            "id": "669466b277cba706",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.9.12"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/量子力学/syc/Assignment/2/Assignment_2.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Assignment_2 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -194,7 +206,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "577f008fa0843129",
+  "active": "669466b277cba706",
   "lastOpenFiles": [
     "Physics/量子力学/syc/Assignment/2/answer.synctex(busy)",
     "Physics/量子力学/syc/Assignment/2/answer.out",
