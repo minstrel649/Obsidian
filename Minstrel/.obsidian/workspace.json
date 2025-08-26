@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Physics/量子力学/syc/Week 1.pdf"
+                "file": "Physics/量子力学/syc/Week 3.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Week 1"
+              "title": "Week 3"
             }
           }
         ]
@@ -196,9 +196,9 @@
   },
   "active": "5ffc79f2078c4fca",
   "lastOpenFiles": [
+    "Physics/量子力学/syc/Week 1.pdf",
     "Physics/量子力学/syc/Week 2.pdf",
     "Question List.md",
-    "Physics/量子力学/syc/Week 1.pdf",
     "Math/syc/数学/Mathematical Physics A Modern Introduction to Its Foundations (Sadri Hassani (auth.)) (Z-Library).pdf",
     "Main（record+navigation）.md",
     "NUS_Learning_record.base",
