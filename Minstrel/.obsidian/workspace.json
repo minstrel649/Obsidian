@@ -11,14 +11,12 @@
             "id": "5ffc79f2078c4fca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Question List.md",
-                "mode": "source",
-                "source": false
+                "file": "Physics/量子力学/syc/Week 1.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Question List"
+              "icon": "lucide-file-text",
+              "title": "Week 1"
             }
           }
         ]
@@ -198,8 +196,8 @@
   },
   "active": "5ffc79f2078c4fca",
   "lastOpenFiles": [
-    "Main（record+navigation）.md",
     "Question List.md",
+    "Main（record+navigation）.md",
     "NUS_Learning_record.base",
     "Physics/量子力学/syc/Week 3.pdf",
     "Physics/量子力学/syc/Week 2.pdf",
