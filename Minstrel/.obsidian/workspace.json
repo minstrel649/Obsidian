@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Physics/量子力学/syc/Week 3.pdf"
+                "file": "Physics/量子力学/syc/Week 2.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Week 3"
+              "title": "Week 2"
             }
           }
         ]
@@ -76,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 586.5,
-    "collapsed": true
+    "width": 586.5
   },
   "right": {
     "id": "18452badd9d034f1",
@@ -197,8 +196,8 @@
   },
   "active": "5ffc79f2078c4fca",
   "lastOpenFiles": [
-    "Physics/量子力学/syc/Introduction to Quantum Mechanics (David J. Griffiths, Darrell F. Schroeter) (Z-Library).pdf",
     "Physics/量子力学/syc/Week 3.pdf",
+    "Physics/量子力学/syc/Introduction to Quantum Mechanics (David J. Griffiths, Darrell F. Schroeter) (Z-Library).pdf",
     "Physics/量子力学/syc/Week 3.pdf.crdownload",
     "Physics/Statistic physics/syc/Lectures - Part I-II.pdf",
     "Physics/量子力学/syc/Assignment/2/answer.synctex(busy)",
