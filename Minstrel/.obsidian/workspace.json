@@ -11,12 +11,14 @@
             "id": "5ffc79f2078c4fca",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Physics/量子力学/syc/Week 3.pdf"
+                "file": "Question List.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Week 3"
+              "icon": "lucide-file",
+              "title": "Question List"
             }
           }
         ]
@@ -76,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 586.5,
-    "collapsed": true
+    "width": 586.5
   },
   "right": {
     "id": "18452badd9d034f1",
@@ -197,8 +198,11 @@
   },
   "active": "5ffc79f2078c4fca",
   "lastOpenFiles": [
-    "Physics/量子力学/syc/Week 2.pdf",
+    "Main（record+navigation）.md",
+    "Question List.md",
+    "NUS_Learning_record.base",
     "Physics/量子力学/syc/Week 3.pdf",
+    "Physics/量子力学/syc/Week 2.pdf",
     "Physics/量子力学/syc/Introduction to Quantum Mechanics (David J. Griffiths, Darrell F. Schroeter) (Z-Library).pdf",
     "Physics/量子力学/syc/Week 3.pdf.crdownload",
     "Physics/Statistic physics/syc/Lectures - Part I-II.pdf",
@@ -206,8 +210,6 @@
     "Physics/量子力学/syc/Assignment/2/answer.out",
     "Physics/量子力学/syc/Assignment/2/answer.aux",
     "Physics/Statistic physics/syc/Lectures - Part I.pdf",
-    "Physics/Statistic physics/syc/Statistical Physics Berkeley Physics Course, Vol. 5 (F. Reif) (Z-Library).pdf",
-    "Physics/量子力学/syc/Instructors’ Solution Manual to Introduction to Quantum Mechanics-David Griffiths, Darrell Schroeter.pdf",
     "Physics/Statistic physics/Statistic physics.md",
     "Physics/量子力学/notebook/chapter 1 notebook.md",
     "Physics/电动力学/第一节课公式整理.md",
@@ -215,7 +217,6 @@
     "Physics/量子力学/notebook/Bloch sphere.md",
     "Math/实变函数/实变函数.md",
     "Physics/量子力学/量子力学.md",
-    "Main（record+navigation）.md",
     "syc/屏幕截图 2025-03-09 120707.png",
     "Untitled.md",
     "2025-08-13.md",
