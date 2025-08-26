@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Math/syc/数学/点集拓扑 (徐森林, 胡自胜, 金亚东, 薛春华) (Z-Library).pdf"
+                "file": "Math/syc/数学/LADR4eChinese.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "点集拓扑 (徐森林, 胡自胜, 金亚东, 薛春华) (Z-Library)"
+              "title": "LADR4eChinese"
             }
           }
         ]
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/syc/数学/点集拓扑 (徐森林, 胡自胜, 金亚东, 薛春华) (Z-Library).pdf",
+                "file": "Math/syc/数学/LADR4eChinese.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "点集拓扑 (徐森林, 胡自胜, 金亚东, 薛春华) (Z-Library) 的反向链接列表"
+              "title": "LADR4eChinese 的反向链接列表"
             }
           },
           {
@@ -195,6 +195,7 @@
   },
   "active": "48c4e296ef7fc5bf",
   "lastOpenFiles": [
+    "Math/syc/数学/点集拓扑 (徐森林, 胡自胜, 金亚东, 薛春华) (Z-Library).pdf",
     "Math/实变函数/notebook/直线上的点集.md",
     "Math/抽象代数/Algebra ([美]阿延（Artin,M.)著, (美)Michael Artin著, Tin Ar) (Z-Library).pdf",
     "Math/点集拓扑/点集拓扑.md",
