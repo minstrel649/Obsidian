@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Math/syc/数学/Mathematical Physics A Modern Introduction to Its Foundations (Sadri Hassani (auth.)) (Z-Library).pdf"
+                "file": "Physics/量子力学/syc/Week 1.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Mathematical Physics A Modern Introduction to Its Foundations (Sadri Hassani (auth.)) (Z-Library)"
+              "title": "Week 1"
             }
           }
         ]
@@ -196,6 +196,7 @@
   },
   "active": "5ffc79f2078c4fca",
   "lastOpenFiles": [
+    "Math/syc/数学/Mathematical Physics A Modern Introduction to Its Foundations (Sadri Hassani (auth.)) (Z-Library).pdf",
     "Physics/量子力学/syc/Week 1.pdf",
     "Question List.md",
     "Main（record+navigation）.md",
@@ -208,7 +209,6 @@
     "Physics/量子力学/syc/Assignment/2/answer.synctex(busy)",
     "Physics/量子力学/syc/Assignment/2/answer.out",
     "Physics/量子力学/syc/Assignment/2/answer.aux",
-    "Physics/Statistic physics/syc/Lectures - Part I.pdf",
     "Physics/Statistic physics/Statistic physics.md",
     "Physics/量子力学/notebook/chapter 1 notebook.md",
     "Physics/电动力学/第一节课公式整理.md",
