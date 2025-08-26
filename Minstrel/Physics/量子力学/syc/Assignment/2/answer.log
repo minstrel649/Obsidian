@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.26)  26 AUG 2025 22:14
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.26)  26 AUG 2025 22:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -546,7 +546,17 @@ Package amsmath Warning: Bracket group [b_i, b_j^\dagger ] at formula start!
 (amsmath)                If it belongs to the formula add a \relax in
 (amsmath)                front to hide it on input line 82.
 
-[2] [3] [4] (./answer.aux)
+[2] [3]
+Overfull \hbox (37.9682pt too wide) in paragraph at lines 187--192
+\OT1/cmr/m/n/12 0[]\OML/cmm/m/it/12 n[] \OT1/cmr/m/n/12 = 1[]\OML/cmm/m/it/12 b[]b[] [] \OT1/cmr/m/n/12 = [] []\OML/cmm/m/it/12 b[]b[] [] \OT1/cmr/m/n/12 = []$
+ []
+
+
+Overfull \hbox (29.93222pt too wide) in paragraph at lines 187--192
+\TU/lmr/m/n/12 when $\OML/cmm/m/it/12 i \OMS/cmsy/m/n/12 6\OT1/cmr/m/n/12 = \OML/cmm/m/it/12 j$\TU/lmr/m/n/12 , $\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 b[]b[] \OMS/cmsy/m/n/12 ^^@ \OML/cmm/m/it/12 b[]b[]\OT1/cmr/m/n/12 ) [] = 0$ \TU/lmr/m/n/12 because $\OML/cmm/m/it/12 b[]b[] []$ \TU/lmr/m/n/12 and $\OML/cmm/m/it/12 b[]b[] []$
+ []
+
+[4] (./answer.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2022/07/14>
