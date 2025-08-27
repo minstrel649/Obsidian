@@ -188,8 +188,28 @@ b&_i\ket{n_1,n_2,\cdots,n_k}=\ket{n_1,n_2,\cdots,n_i-1,\cdots,n_L}=\ket{n_1,n_2,
 $[b_i,b_j]=0 \text{for any i,j} \text{because when i=j} (b_ib_j-b_jb_i)\ket{n_1,n_2,\cdots,n_L}=0\text{if}n_i=0$
 $[b_i,b_j]=0\text{if}n_i=1\text{because}b_ib_j\ket{n_1,n_2,\cdots,n_L}=\ket{n_1,n_2,\cdots,n_L} \text{and}b_jb_i\ket{n_1,n_2,\cdots,n_L}=\ket{n_1,n_2,\cdots,n_L}$
 when $i\neq j$, $(b_ib_j-b_jb_i)\ket{n_1,n_2,\cdots,n_L}=0$ because $b_ib_j\ket{n_1,n_2,\cdots,n_L}$ and $b_jb_i\ket{n_1,n_2,\cdots,n_L}$ are the same state.
+$[b_i,b_j^\dagger]=\delta_{ij}$
+\textbf{case 1: i=j}
+\[[b_i,b_i^\dagger]=b_ib_i^\dagger-b_i^\dagger b_i\]
+if $n_i=0$, we have:
+\[\begin{aligned}
+&b_ib_i^\dagger\ket{n_1,n_2,\cdots,n_k} = b_i\ket{n_1,n_2,\cdots,1,n_{i+1},\cdots,n_L} \\
+&=\ket{n_1,n_2,\cdots,0,n_{i+1},\cdots,n_L}=\ket{n_1,n_2,\cdots,n_k} \\
+\end{aligned}
+\]
+$b_i^\dagger b_i\ket{n_1,n_2,\cdots,n_k}=b_i^\dagger 0=0$
+
+\text{case 2: i$\neq$j}
+\[[b_i,b_j^\dagger]=b_ib_j^\dagger-b_j^\dagger b_i
+=0\text{because when}n_i=0\text{or}n_j=0,b_ib_j^\dagger\ket{n_1,n_2,\cdots,n_L}=0\text{and}b_j^\dagger b_i\ket{n_1,n_2,\cdots,n_L}=0\]
+when $n_i=1$ or $n_j=1$, $b_ib_j^\dagger\ket{n_1,n_2,\cdots,n_L}$ and $b_j^\dagger b_i\ket{n_1,n_2,\cdots,n_L}$ are the same state.
+
+
+when $n_i=0$, we have:
 \textbf{(2)}
-$\sigma_i^{\pm}=(\sigma_i^x\pm\sigma_i^y\cdot i)/2$
+$\sigma_i^{\pm}=(\sigma_i^x\pm\sigma_i^y\cdot i)/2$if we call
+
+
 \textbf{(3)}
 
 \textbf{(4)}

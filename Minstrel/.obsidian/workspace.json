@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Physics/电动力学/syc/课件/01 Fields in Matter.pdf"
+                "file": "Physics/量子力学/syc/Assignment/2/Assignment_2.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "01 Fields in Matter"
+              "title": "Assignment_2"
             }
           }
         ]
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/电动力学/syc/课件/01 Fields in Matter.pdf",
+                "file": "Physics/量子力学/syc/Assignment/2/Assignment_2.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "01 Fields in Matter 的反向链接列表"
+              "title": "Assignment_2 的反向链接列表"
             }
           },
           {
@@ -197,8 +197,8 @@
   "active": "577f008fa0843129",
   "lastOpenFiles": [
     "Physics/量子力学/syc/Assignment/2/answer.synctex(busy)",
-    "Physics/电动力学/syc/课件/Formula.pdf",
     "Physics/电动力学/syc/课件/01 Fields in Matter.pdf",
+    "Physics/电动力学/syc/课件/Formula.pdf",
     "Math/syc/数学/点集拓扑 (徐森林, 胡自胜, 金亚东, 薛春华) (Z-Library).pdf",
     "Physics/Statistic physics/syc/tutorial/Tutorial 1.pdf",
     "Physics/量子力学/syc/978-3-030-13724-3.pdf",
