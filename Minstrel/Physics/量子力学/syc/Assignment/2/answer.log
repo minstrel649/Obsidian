@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.26)  27 AUG 2025 21:17
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.26)  27 AUG 2025 21:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -547,17 +547,17 @@ Package amsmath Warning: Bracket group [b_i, b_j^\dagger ] at formula start!
 (amsmath)                front to hide it on input line 82.
 
 [2] [3]
-Overfull \hbox (37.9682pt too wide) in paragraph at lines 187--192
+Overfull \hbox (37.9682pt too wide) in paragraph at lines 190--195
 \OT1/cmr/m/n/12 0[]\OML/cmm/m/it/12 n[] \OT1/cmr/m/n/12 = 1[]\OML/cmm/m/it/12 b[]b[] [] \OT1/cmr/m/n/12 = [] []\OML/cmm/m/it/12 b[]b[] [] \OT1/cmr/m/n/12 = []$
  []
 
 
-Overfull \hbox (29.93222pt too wide) in paragraph at lines 187--192
+Overfull \hbox (29.93222pt too wide) in paragraph at lines 190--195
 \TU/lmr/m/n/12 when $\OML/cmm/m/it/12 i \OMS/cmsy/m/n/12 6\OT1/cmr/m/n/12 = \OML/cmm/m/it/12 j$\TU/lmr/m/n/12 , $\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 b[]b[] \OMS/cmsy/m/n/12 ^^@ \OML/cmm/m/it/12 b[]b[]\OT1/cmr/m/n/12 ) [] = 0$ \TU/lmr/m/n/12 because $\OML/cmm/m/it/12 b[]b[] []$ \TU/lmr/m/n/12 and $\OML/cmm/m/it/12 b[]b[] []$
  []
 
 
-Overfull \hbox (69.20723pt too wide) detected at line 205
+Overfull \hbox (69.20723pt too wide) detected at line 208
 \OT1/cmr/m/n/12 [\OML/cmm/m/it/12 b[]; b[]\OT1/cmr/m/n/12 ] = \OML/cmm/m/it/12 b[]b[] \OMS/cmsy/m/n/12 ^^@ \OML/cmm/m/it/12 b[]b[] \OT1/cmr/m/n/12 = 0[]\OML/cmm/m/it/12 n[] \OT1/cmr/m/n/12 = 0[]\OML/cmm/m/it/12 n[] \OT1/cmr/m/n/12 = 0\OML/cmm/m/it/12 ; b[]b[] [] \OT1/cmr/m/n/12 = 0[]\OML/cmm/m/it/12 b[]b[] [] \OT1/cmr/m/n/12 = 0
  []
 
@@ -570,11 +570,11 @@ Package rerunfilecheck Info: File `answer.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 15627 strings out of 476720
- 328103 string characters out of 5800355
- 1938842 words of memory out of 5000000
- 37460 multiletter control sequences out of 15000+600000
- 567459 words of font info for 86 fonts, out of 8000000 for 9000
+ 15633 strings out of 476720
+ 328261 string characters out of 5800355
+ 1939842 words of memory out of 5000000
+ 37462 multiletter control sequences out of 15000+600000
+ 567475 words of font info for 88 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  93i,10n,97p,443b,347s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
