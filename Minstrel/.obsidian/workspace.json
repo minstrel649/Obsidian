@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Physics/Statistic physics/syc/tutorial/Tutorial 1.pdf"
+                "file": "Math/syc/数学/点集拓扑 (徐森林, 胡自胜, 金亚东, 薛春华) (Z-Library).pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Tutorial 1"
+              "title": "点集拓扑 (徐森林, 胡自胜, 金亚东, 薛春华) (Z-Library)"
             }
           }
         ]
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Statistic physics/syc/tutorial/Tutorial 1.pdf",
+                "file": "Math/syc/数学/点集拓扑 (徐森林, 胡自胜, 金亚东, 薛春华) (Z-Library).pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Tutorial 1 的反向链接列表"
+              "title": "点集拓扑 (徐森林, 胡自胜, 金亚东, 薛春华) (Z-Library) 的反向链接列表"
             }
           },
           {
@@ -195,6 +195,7 @@
   },
   "active": "577f008fa0843129",
   "lastOpenFiles": [
+    "Physics/Statistic physics/syc/tutorial/Tutorial 1.pdf",
     "Physics/量子力学/syc/978-3-030-13724-3.pdf",
     "Physics/量子力学/syc/Assignment/2/Assignment_2.pdf",
     "Physics/量子力学/syc/Assignment/2/answer.synctex(busy)",
@@ -206,7 +207,6 @@
     "Physics/电动力学/syc/Introduction to Electrodynamics, Fourth Edition (David J. Griffiths) (Z-Library).pdf",
     "Math/syc/数学/点集拓扑 (徐森林, 胡自胜, 金亚东, 薛春华) (Z-Library).pdf",
     "Math/实变函数/notebook/直线上的点集.md",
-    "Math/抽象代数/Algebra ([美]阿延（Artin,M.)著, (美)Michael Artin著, Tin Ar) (Z-Library).pdf",
     "Math/点集拓扑/点集拓扑.md",
     "Math/实变函数/实变函数.md",
     "Question List.md",
