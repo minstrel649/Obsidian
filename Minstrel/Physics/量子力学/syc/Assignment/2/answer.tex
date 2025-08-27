@@ -233,9 +233,52 @@ when $i=j$, we have:
 \[
 [\sigma_i^-,\sigma_i^-]=\sigma_i^-\sigma_i^--\sigma_i^-\sigma_i^-=0 
 \]
+\textbf{case 2 $[\sigma_i^-,\sigma_j^+]=0$}
+
+because $\sigma_i^-$ and $\sigma_j^+$ act on different qubits, they commute with each other. Therefore, when $i \neq j$, we have:
+\[[\sigma_i^-,\sigma_j^+]=0\]
+\textbf{case 3 $\{\sigma_i^-,\sigma_i^+\}=1$}
+use matrix representation of the Pauli operators:
+\[\sigma_i^-=\begin{pmatrix}
+0 & 0 \\
+1 & 0
+\end{pmatrix}, \quad \sigma_i^+=\begin{pmatrix} 
+0 & 1 \\
+0 & 0
+\end{pmatrix}\]
+so we have:
+\[\{\sigma_i^-,\sigma_i^+\}=\sigma_i^-\sigma_i^++\sigma_i^+\sigma_i^-=\begin{pmatrix}
+1 & 0 \\
+0 & 1
+\end{pmatrix}=I\]
+
+
 \textbf{(3)}
 
-when $i\neq j$, we have:
+Given the definition
+\[
+f_i^\dagger = \left( \prod_{j<i} \sigma_j^z \right) \sigma_i^+,
+\]
+we can express $f_i^\dagger f_i$ in terms of Pauli operators as follows:
+\[
+f_i^\dagger f_i = \left( \prod_{j<i} \sigma_j^z \right) \sigma_i^+ \left( \prod_{j<i} \sigma_j^z \right) \sigma_i^- = \sigma_i^+ \sigma_i^- = \frac{1}{2}(1 + \sigma_i^z).
+\]
+Here, we used the facts that $(\sigma_j^z)^2 = 1$ and $\sigma_j^z$ commutes with $\sigma_i^\pm$ for $j \neq i$.
+
+Next, we show the anticommutation relations:
+\[
+\{f_i, f_j\} = f_i f_j + f_j f_i = 0,
+\]
+\[
+\{f_i, f_j^\dagger\} = f_i f_j^\dagger + f_j^\dagger f_i = \delta_{ij}.
+\]
+This follows from the Jordan-Wigner string: for $i \neq j$, the string of $\sigma^z$ operators ensures the correct anticommutation, while for $i = j$, the local Pauli algebra gives the result.
+
+Therefore,
+\[
+f_i^\dagger f_i = \frac{1}{2}(1 + \sigma_i^z), \quad \{f_i, f_j\} = 0, \quad \{f_i, f_j^\dagger\} = \delta_{ij}.
+\]
+
 \textbf{(4)}
 how should the Pauli operators $\sigma_i^+ $ and $\sigma_i^z $ can be written in terms of the  $f$ operators? 
 we have the definition that:
