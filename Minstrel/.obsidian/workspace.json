@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Physics/量子力学/syc/978-3-030-13724-3.pdf"
+                "file": "Physics/Statistic physics/syc/tutorial/Tutorial 1.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "978-3-030-13724-3"
+              "title": "Tutorial 1"
             }
           }
         ]
@@ -76,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 586.5,
-    "collapsed": true
+    "width": 586.5
   },
   "right": {
     "id": "18452badd9d034f1",
@@ -93,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/量子力学/syc/978-3-030-13724-3.pdf",
+                "file": "Physics/Statistic physics/syc/tutorial/Tutorial 1.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "978-3-030-13724-3 的反向链接列表"
+              "title": "Tutorial 1 的反向链接列表"
             }
           },
           {
@@ -196,6 +195,7 @@
   },
   "active": "577f008fa0843129",
   "lastOpenFiles": [
+    "Physics/量子力学/syc/978-3-030-13724-3.pdf",
     "Physics/量子力学/syc/Assignment/2/Assignment_2.pdf",
     "Physics/量子力学/syc/Assignment/2/answer.synctex(busy)",
     "Physics/量子力学/syc/Assignment/2/answer.out",
@@ -208,7 +208,6 @@
     "Math/实变函数/notebook/直线上的点集.md",
     "Math/抽象代数/Algebra ([美]阿延（Artin,M.)著, (美)Michael Artin著, Tin Ar) (Z-Library).pdf",
     "Math/点集拓扑/点集拓扑.md",
-    "Math/点集拓扑",
     "Math/实变函数/实变函数.md",
     "Question List.md",
     "Main（record+navigation）.md",
