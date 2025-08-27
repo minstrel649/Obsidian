@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Physics/电动力学/syc/课件/Formula.pdf"
+                "file": "Physics/电动力学/syc/课件/01 Fields in Matter.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Formula"
+              "title": "01 Fields in Matter"
             }
           }
         ]
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/电动力学/syc/课件/Formula.pdf",
+                "file": "Physics/电动力学/syc/课件/01 Fields in Matter.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Formula 的反向链接列表"
+              "title": "01 Fields in Matter 的反向链接列表"
             }
           },
           {
@@ -196,6 +196,7 @@
   },
   "active": "577f008fa0843129",
   "lastOpenFiles": [
+    "Physics/电动力学/syc/课件/Formula.pdf",
     "Physics/电动力学/syc/课件/01 Fields in Matter.pdf",
     "Math/syc/数学/点集拓扑 (徐森林, 胡自胜, 金亚东, 薛春华) (Z-Library).pdf",
     "Physics/Statistic physics/syc/tutorial/Tutorial 1.pdf",
@@ -206,7 +207,6 @@
     "Physics/量子力学/syc/Assignment/2/answer.aux",
     "Physics/量子力学/syc/Week 3.pdf",
     "Math/syc/数学/LADR4eChinese.pdf",
-    "Physics/量子力学/syc/Introduction to Quantum Mechanics (David J. Griffiths, Darrell F. Schroeter) (Z-Library).pdf",
     "Math/实变函数/notebook/直线上的点集.md",
     "Math/点集拓扑/点集拓扑.md",
     "Math/实变函数/实变函数.md",
