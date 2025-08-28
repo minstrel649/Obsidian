@@ -11,14 +11,12 @@
             "id": "577f008fa0843129",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Question List.md",
-                "mode": "preview",
-                "source": false
+                "file": "Math/syc/数学/LADR4eChinese.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Question List"
+              "icon": "lucide-file-text",
+              "title": "LADR4eChinese"
             }
           }
         ]
@@ -198,8 +196,8 @@
   },
   "active": "577f008fa0843129",
   "lastOpenFiles": [
-    "photo/Screenshot 2025-08-28 171914.png",
     "Question List.md",
+    "photo/Screenshot 2025-08-28 171914.png",
     "syc/屏幕截图 2025-03-09 120707.png",
     "photo",
     "Math/syc/数学/LADR4eChinese.pdf",
