@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Physics/Statistic physics/syc/tutorial/Tutorial 1.pdf"
+                "file": "Physics/Statistic physics/syc/Lectures - Part I-II.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Tutorial 1"
+              "title": "Lectures - Part I-II"
             }
           }
         ]
@@ -196,6 +196,9 @@
   },
   "active": "577f008fa0843129",
   "lastOpenFiles": [
+    "Physics/Statistic physics/syc/tutorial/Tutorial 1.pdf",
+    "Physics/Statistic physics/syc/Lectures - Part I-II.pdf",
+    "Physics/Statistic physics/syc/Statistical Physics Berkeley Physics Course, Vol. 5 (F. Reif) (Z-Library).pdf",
     "Math/syc/数学/LADR4eChinese.pdf",
     "Question List.md",
     "photo/Screenshot 2025-08-28 171914.png",
@@ -208,8 +211,6 @@
     "Physics/量子力学/syc/Assignment/2/Assignment_2.pdf",
     "Physics/量子力学/syc/Assignment/2/answer.synctex(busy)",
     "Physics/量子力学/syc/Assignment/2/answer.out",
-    "Physics/量子力学/syc/Assignment/2/answer.aux",
-    "Physics/量子力学/syc/Assignment/2/answer.log",
     "Math/实变函数/notebook/直线上的点集.md",
     "Math/点集拓扑/点集拓扑.md",
     "Math/实变函数/实变函数.md",
