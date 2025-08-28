@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Physics/量子力学/syc/Week 3.pdf"
+                "file": "Math/抽象代数/Algebra ([美]阿延（Artin,M.)著, (美)Michael Artin著, Tin Ar) (Z-Library).pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Week 3"
+              "title": "Algebra ([美]阿延（Artin,M.)著, (美)Michael Artin著, Tin Ar) (Z-Library)"
             }
           }
         ]
@@ -196,8 +196,8 @@
   },
   "active": "577f008fa0843129",
   "lastOpenFiles": [
-    "Physics/量子力学/syc/Week 2.pdf",
     "Physics/量子力学/syc/Week 3.pdf",
+    "Physics/量子力学/syc/Week 2.pdf",
     "Physics/量子力学/syc/Assignment/2/Assignment_2.pdf",
     "Physics/量子力学/syc/Assignment/2/answer.synctex(busy)",
     "Physics/量子力学/syc/Assignment/2/answer.out",
