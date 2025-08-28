@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Physics/Statistic physics/syc/Lectures - Part I-II.pdf"
+                "file": "Physics/Statistic physics/syc/tutorial/Tutorial 1.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Lectures - Part I-II"
+              "title": "Tutorial 1"
             }
           }
         ]
@@ -196,8 +196,8 @@
   },
   "active": "577f008fa0843129",
   "lastOpenFiles": [
-    "Physics/Statistic physics/syc/tutorial/Tutorial 1.pdf",
     "Physics/Statistic physics/syc/Lectures - Part I-II.pdf",
+    "Physics/Statistic physics/syc/tutorial/Tutorial 1.pdf",
     "Physics/Statistic physics/syc/Statistical Physics Berkeley Physics Course, Vol. 5 (F. Reif) (Z-Library).pdf",
     "Math/syc/数学/LADR4eChinese.pdf",
     "Question List.md",
