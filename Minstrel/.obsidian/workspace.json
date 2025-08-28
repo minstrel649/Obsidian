@@ -11,12 +11,14 @@
             "id": "577f008fa0843129",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Math/抽象代数/Algebra ([美]阿延（Artin,M.)著, (美)Michael Artin著, Tin Ar) (Z-Library).pdf"
+                "file": "Physics/量子力学/notebook/关于互易算子的数学基础.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Algebra ([美]阿延（Artin,M.)著, (美)Michael Artin著, Tin Ar) (Z-Library)"
+              "icon": "lucide-file",
+              "title": "关于互易算子的数学基础"
             }
           }
         ]
@@ -196,6 +198,8 @@
   },
   "active": "577f008fa0843129",
   "lastOpenFiles": [
+    "Math/抽象代数/Algebra ([美]阿延（Artin,M.)著, (美)Michael Artin著, Tin Ar) (Z-Library).pdf",
+    "Physics/量子力学/notebook/关于互易算子的数学基础.md",
     "Physics/量子力学/syc/Week 3.pdf",
     "Physics/量子力学/syc/Week 2.pdf",
     "Physics/量子力学/syc/Assignment/2/Assignment_2.pdf",
@@ -206,7 +210,6 @@
     "Physics/电动力学/syc/课件/01 Fields in Matter.pdf",
     "Physics/电动力学/syc/课件/Formula.pdf",
     "Math/syc/数学/点集拓扑 (徐森林, 胡自胜, 金亚东, 薛春华) (Z-Library).pdf",
-    "Physics/Statistic physics/syc/tutorial/Tutorial 1.pdf",
     "Math/实变函数/notebook/直线上的点集.md",
     "Math/点集拓扑/点集拓扑.md",
     "Math/实变函数/实变函数.md",
@@ -234,7 +237,6 @@
     "Math/抽象代数/notebook/环的基本概念.md",
     "Math/抽象代数/习题/群的基本概念习题.md",
     "Math/实变函数.md",
-    "Math/抽象代数/notebook/群的基本概念.md",
     "Physics/量子力学/syc/未命名.canvas"
   ]
 }
