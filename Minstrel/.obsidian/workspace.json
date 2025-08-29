@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Physics/Statistic physics/syc/Statistical Physics Berkeley Physics Course, Vol. 5 (F. Reif) (Z-Library).pdf"
+                "file": "Physics/量子力学/syc/Assignment/3/Assignment_3.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Statistical Physics Berkeley Physics Course, Vol. 5 (F. Reif) (Z-Library)"
+              "title": "Assignment_3"
             }
           }
         ]
@@ -197,9 +197,10 @@
   },
   "active": "577f008fa0843129",
   "lastOpenFiles": [
+    "Physics/Statistic physics/syc/Statistical Physics Berkeley Physics Course, Vol. 5 (F. Reif) (Z-Library).pdf",
+    "Physics/量子力学/syc/Assignment/3/answer.synctex(busy)",
     "Physics/Statistic physics/syc/Lectures - Part I-II.pdf",
     "Physics/Statistic physics/syc/tutorial/Tutorial 2 (1).pdf",
-    "Physics/量子力学/syc/Assignment/3/answer.synctex(busy)",
     "Physics/Statistic physics/syc/note1.pdf",
     "Math/syc/数学/LADR4eChinese.pdf",
     "Physics/电动力学/syc/补充资料/1 Poynting Theorem.pdf",
@@ -208,7 +209,6 @@
     "Math/未命名",
     "Physics/量子力学/syc/Assignment/3/answer.out",
     "Physics/量子力学/syc/Assignment/3/answer.aux",
-    "Physics/量子力学/syc/Assignment/3/answer.log",
     "Physics/量子力学/notebook/关于互易算子的数学基础.md",
     "Question List.md",
     "photo/Screenshot 2025-08-28 171914.png",
