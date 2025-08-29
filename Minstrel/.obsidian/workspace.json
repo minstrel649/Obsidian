@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Physics/Statistic physics/syc/Lectures - Part I-II.pdf"
+                "file": "Physics/Statistic physics/syc/tutorial/Tutorial 2 (1).pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Lectures - Part I-II"
+              "title": "Tutorial 2 (1)"
             }
           }
         ]
@@ -194,19 +194,20 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ad4cf4aa4e681f60",
+  "active": "577f008fa0843129",
   "lastOpenFiles": [
     "Physics/Statistic physics/syc/note1.pdf",
+    "Math/syc/数学/LADR4eChinese.pdf",
+    "Physics/电动力学/syc/补充资料/1 Poynting Theorem.pdf",
+    "Math/抽象代数/习题/群的基本概念习题.md",
+    "Physics/Statistic physics/syc/tutorial/Tutorial 2 (1).pdf",
+    "Physics/Statistic physics/syc/tutorial/Tutorial 2 (1).pdf.crdownload",
+    "Physics/Statistic physics/syc/Lectures - Part I-II.pdf",
     "Physics/量子力学/syc/Assignment/3/answer.synctex(busy)",
     "Math/未命名",
     "Physics/量子力学/syc/Assignment/3/answer.out",
     "Physics/量子力学/syc/Assignment/3/answer.aux",
     "Physics/量子力学/syc/Assignment/3/answer.log",
-    "Physics/量子力学/syc/Assignment/3/answer.pdf",
-    "Physics/量子力学/syc/Assignment/3/answer.tex",
-    "Physics/量子力学/syc/Assignment/3/Assignment_3.pdf",
-    "Physics/量子力学/syc/Assignment/3/Assignment_3.pdf.crdownload",
-    "Physics/量子力学/syc/Assignment/3",
     "Physics/量子力学/notebook/关于互易算子的数学基础.md",
     "Question List.md",
     "photo/Screenshot 2025-08-28 171914.png",
@@ -234,7 +235,6 @@
     "未命名 1.md",
     "test.md",
     "Math/抽象代数/notebook/环的基本概念.md",
-    "Math/抽象代数/习题/群的基本概念习题.md",
     "Math/实变函数.md",
     "Physics/量子力学/syc/未命名.canvas"
   ]
