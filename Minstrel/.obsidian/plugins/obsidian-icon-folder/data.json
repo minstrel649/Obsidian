@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAlarmPlus",
       "LiArmchair",
       "LiAArrowUp"
     ],
@@ -34,5 +35,9 @@
   "Math": {
     "iconName": "LiArmchair",
     "iconColor": "#db1414"
+  },
+  "Physics/量子力学": {
+    "iconName": "LiAlarmPlus",
+    "iconColor": "#1ed760"
   }
 }
