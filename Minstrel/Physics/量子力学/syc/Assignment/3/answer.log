@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.26)  29 AUG 2025 10:33
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.3.26)  29 AUG 2025 11:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -521,12 +521,8 @@ Package hyperref Info: Link coloring OFF on input line 13.
 \@outlinefile=\write3
 \openout3 = `answer.out'.
 
-
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
-
 LaTeX Font Info:    Trying to load font information for U+msa on input line 15.
-(d:/QLDownload/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
+ (d:/QLDownload/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 15.
@@ -543,10 +539,10 @@ Package rerunfilecheck Info: File `answer.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 15588 strings out of 476720
- 327431 string characters out of 5800355
+ 15586 strings out of 476720
+ 327385 string characters out of 5800355
  1923842 words of memory out of 5000000
- 37433 multiletter control sequences out of 15000+600000
+ 37431 multiletter control sequences out of 15000+600000
  562790 words of font info for 65 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  93i,6n,97p,443b,336s stack positions out of 10000i,1000n,20000p,200000b,200000s
