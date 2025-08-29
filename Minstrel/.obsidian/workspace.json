@@ -11,12 +11,14 @@
             "id": "577f008fa0843129",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Physics/Statistic physics/syc/tutorial/Tutorial 1.pdf"
+                "file": "Physics/量子力学/notebook/关于互易算子的数学基础.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Tutorial 1"
+              "icon": "lucide-file",
+              "title": "关于互易算子的数学基础"
             }
           }
         ]
@@ -196,8 +198,8 @@
   },
   "active": "577f008fa0843129",
   "lastOpenFiles": [
-    "Physics/Statistic physics/syc/Lectures - Part I-II.pdf",
     "Physics/Statistic physics/syc/tutorial/Tutorial 1.pdf",
+    "Physics/Statistic physics/syc/Lectures - Part I-II.pdf",
     "Physics/Statistic physics/syc/Statistical Physics Berkeley Physics Course, Vol. 5 (F. Reif) (Z-Library).pdf",
     "Math/syc/数学/LADR4eChinese.pdf",
     "Question List.md",
