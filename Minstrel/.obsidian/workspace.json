@@ -11,12 +11,14 @@
             "id": "577f008fa0843129",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Physics/量子力学/syc/Assignment/3/Assignment_3.pdf"
+                "file": "Question List.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Assignment_3"
+              "icon": "lucide-file",
+              "title": "Question List"
             }
           }
         ]
@@ -76,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 586.5,
-    "collapsed": true
+    "width": 586.5
   },
   "right": {
     "id": "18452badd9d034f1",
@@ -197,6 +198,9 @@
   },
   "active": "577f008fa0843129",
   "lastOpenFiles": [
+    "Physics/量子力学/syc/Week 2.pdf",
+    "Physics/量子力学/syc/Week 3.pdf",
+    "Physics/量子力学/syc/Assignment/3/Assignment_3.pdf",
     "Physics/Statistic physics/syc/Statistical Physics Berkeley Physics Course, Vol. 5 (F. Reif) (Z-Library).pdf",
     "Physics/量子力学/syc/Assignment/3/answer.synctex(busy)",
     "Physics/Statistic physics/syc/Lectures - Part I-II.pdf",
@@ -206,9 +210,6 @@
     "Physics/电动力学/syc/补充资料/1 Poynting Theorem.pdf",
     "Math/抽象代数/习题/群的基本概念习题.md",
     "Physics/Statistic physics/syc/tutorial/Tutorial 2 (1).pdf.crdownload",
-    "Math/未命名",
-    "Physics/量子力学/syc/Assignment/3/answer.out",
-    "Physics/量子力学/syc/Assignment/3/answer.aux",
     "Physics/量子力学/notebook/关于互易算子的数学基础.md",
     "Question List.md",
     "photo/Screenshot 2025-08-28 171914.png",
