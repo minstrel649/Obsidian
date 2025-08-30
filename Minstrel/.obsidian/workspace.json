@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1c2c980eeaa8622d",
+        "id": "b83d454456a47fd2",
         "type": "tabs",
         "children": [
           {
-            "id": "577f008fa0843129",
+            "id": "4e5b843f6697aa02",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -17,6 +17,26 @@
               },
               "icon": "lucide-file-text",
               "title": "Algebra ([美]阿延（Artin,M.)著, (美)Michael Artin著, Tin Ar) (Z-Library)"
+            }
+          }
+        ]
+      },
+      {
+        "id": "c354e263c1f1ebbc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9546e481b6d7a68d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/抽象代数/notebook/矩阵指数.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "矩阵指数"
             }
           }
         ]
@@ -194,11 +214,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "577f008fa0843129",
+  "active": "9546e481b6d7a68d",
   "lastOpenFiles": [
-    "Math/抽象代数/notebook/矩阵指数.md",
-    "Physics/量子力学/syc/Assignment/3/answer.synctex(busy)",
     "Math/抽象代数/Algebra ([美]阿延（Artin,M.)著, (美)Michael Artin著, Tin Ar) (Z-Library).pdf",
+    "Math/抽象代数/notebook/矩阵指数.md",
+    "Math/抽象代数/抽象代数.md",
+    "Physics/量子力学/notebook/关于互易算子的数学基础.md",
+    "Physics/量子力学/syc/Assignment/3/answer.synctex(busy)",
     "Question List.md",
     "Physics/量子力学/syc/Week 2.pdf",
     "Physics/量子力学/syc/Week 3.pdf",
@@ -209,7 +231,6 @@
     "Physics/Statistic physics/syc/note1.pdf",
     "Math/syc/数学/LADR4eChinese.pdf",
     "Math/抽象代数/习题/群的基本概念习题.md",
-    "Physics/量子力学/notebook/关于互易算子的数学基础.md",
     "photo/Screenshot 2025-08-28 171914.png",
     "syc/屏幕截图 2025-03-09 120707.png",
     "Math/实变函数/notebook/直线上的点集.md",
@@ -234,7 +255,6 @@
     "Daily Writing.md",
     "未命名 1.md",
     "test.md",
-    "Math/抽象代数/notebook/环的基本概念.md",
     "Physics/量子力学/syc/未命名.canvas"
   ]
 }
