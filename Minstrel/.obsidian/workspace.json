@@ -29,14 +29,12 @@
             "id": "9546e481b6d7a68d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Math/抽象代数/notebook/矩阵指数.md",
-                "mode": "source",
-                "source": false
+                "file": "Math/抽象代数/Algebra ([美]阿延（Artin,M.)著, (美)Michael Artin著, Tin Ar) (Z-Library).pdf"
               },
-              "icon": "lucide-file",
-              "title": "矩阵指数"
+              "icon": "lucide-file-text",
+              "title": "Algebra ([美]阿延（Artin,M.)著, (美)Michael Artin著, Tin Ar) (Z-Library)"
             }
           }
         ]
@@ -217,8 +215,8 @@
   },
   "active": "9546e481b6d7a68d",
   "lastOpenFiles": [
-    "Math/抽象代数/Algebra ([美]阿延（Artin,M.)著, (美)Michael Artin著, Tin Ar) (Z-Library).pdf",
     "Math/抽象代数/notebook/矩阵指数.md",
+    "Math/抽象代数/Algebra ([美]阿延（Artin,M.)著, (美)Michael Artin著, Tin Ar) (Z-Library).pdf",
     "Math/抽象代数/抽象代数.md",
     "Physics/量子力学/notebook/关于互易算子的数学基础.md",
     "Physics/量子力学/syc/Assignment/3/answer.synctex(busy)",
